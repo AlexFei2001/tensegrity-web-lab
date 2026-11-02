@@ -1,0 +1,27 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import {optimize} from '../web/src/algorithms.js';
+import {initialGeometry,exactSample,fitness,assertDataset} from '../web/src/model.js';
+import {validateSamples} from '../tools/import-samples.mjs';
+const read=p=>JSON.parse(fs.readFileSync(new URL(p,import.meta.url)));
+const model=read('../web/public/data/model.json'),schema=read('../data/schema.json');
+const parameters=Object.fromEntries(model.parameters.map(p=>[p.key,p.default]));
+const sample=()=>({id:'test-fixture-not-real',modelHash:model.modelHash,parameters:{...parameters},solver:{source:'grasshopper',validated:true,converged:true,status:'precomputed',version:{test:'synthetic-fixture'}},results:{maxDisplacement_m:.1,mass_kg:null,feasible:true,failureReasons:[]},geometry:{...initialGeometry(parameters,model.topology),nodes:initialGeometry(parameters,model.topology).nodes.map(n=>({...n,deformedPosition:n.position}))},units:{length:'m',displacement:'m',force:'uncalibrated'}});
+test('Audit resolves all normal source ports; 725 objects',()=>{assert.equal(read('../data/model-graph.json').objects.length,725);assert.ok(read('../data/connections.json').every(e=>e.sourceOwner));});
+test('GHX topology is 3 struts and 9 cables, changing twist preserves IDs',()=>{const a=initialGeometry(parameters,model.topology),b=initialGeometry({...parameters,twist_deg:0},model.topology);assert.equal(a.members.filter(m=>m.kind==='cable').length,9);assert.equal(a.members.filter(m=>m.kind==='strut').length,3);assert.deepEqual(a.members,b.members);assert.deepEqual(a.nodes.slice(0,3),b.nodes.slice(0,3));assert.notDeepEqual(a.nodes[3],b.nodes[3]);});
+test('No nearest neighbour or different-model sample matching',()=>{const s=sample();assert.equal(exactSample([s],parameters,model.modelHash),s);assert.equal(exactSample([s],{...parameters,twist_deg:parameters.twist_deg+.000001},model.modelHash),null);assert.equal(exactSample([s],parameters,'other'),null);});
+test('Missing, failed or infeasible result cannot have winning zero fitness',()=>{assert.equal(fitness(null),Infinity);const s=sample();s.results.maxDisplacement_m=null;assert.equal(fitness(s),Infinity);s.results.maxDisplacement_m=0;s.solver.validated=false;assert.equal(fitness(s),Infinity);s.solver.validated=true;s.results.feasible=false;assert.equal(fitness(s),Infinity);});
+test('Schema rejects inconsistent validation, wrong units, wrong topology and duplicate vectors',()=>{
+ assert.equal(validateSamples([sample()],model,schema).length,1);
+ const bad=sample();bad.solver.validated=false;assert.throws(()=>validateSamples([bad],model,schema));
+ const units=sample();units.units.length='mm';assert.throws(()=>validateSamples([units],model,schema));
+ const index=sample();index.geometry.members[0].nodes=[0,999];assert.throws(()=>validateSamples([index],model,schema));
+ assert.throws(()=>validateSamples([sample(),{...sample(),id:'duplicate'}],model,schema));
+});
+test('Strict displacement boundary matches actual GH port',()=>{const s=sample();s.results.maxDisplacement_m=.431399;assert.throws(()=>validateSamples([s],model,schema));});
+test('Five synthetic contract fixtures preserve values exactly (NOT GH acceptance samples)',()=>{const rows=Array.from({length:5},(_,i)=>{const s=sample();s.id+='-'+i;s.parameters.twist_deg=170+i;s.results.maxDisplacement_m=.01+i*.02;return s;});validateSamples(rows,model,schema);for(const r of rows)assert.equal(exactSample(rows,r.parameters,model.modelHash).results.maxDisplacement_m,r.results.maxDisplacement_m);});
+for(const algorithm of ['GA','PSO','SA'])test(`${algorithm}: reproducible, exact budget, finite bounds, best history`,()=>{const config={algorithm,budget:113,seed:42},a=[...optimize(config)],b=[...optimize(config)];assert.deepEqual(a,b);assert.equal(a.length,113);let best=Infinity;for(const r of a){best=Math.min(best,r.fitness);assert.equal(r.best,best);assert.ok(r.point.every(x=>Number.isFinite(x)&&x>=-5.12&&x<=5.12));assert.equal(r.realStructuralEvaluations,0);}});
+test('SA reports accepting worse moves; acceptance is objective based',()=>{const rows=[...optimize({algorithm:'SA',seed:42,budget:200,temperature:100,cooling:.99})];assert.ok(rows.some(r=>r.acceptedWorse));for(const r of rows.filter(r=>r.acceptedWorse))assert.ok(r.delta>0&&r.accepted);});
+test('Archive remains separate, all 200 rows unverified',()=>{const rows=read('../data/runs/opossum-archive.json');assert.equal(rows.length,200);assert.ok(rows.every(r=>r.status==='archived-unverified'&&r.objectives.every(Number.isFinite)));assert.ok(read('../data/samples.json').every(r=>r.solver?.source==='grasshopper'));});
+test('Browser rejects corrupt data and accepts legitimate zero displacement',()=>{const s=sample();s.results.maxDisplacement_m=0;assert.doesNotThrow(()=>assertDataset([s],model));s.results.maxDisplacement_m=NaN;assert.throws(()=>assertDataset([s],model));});

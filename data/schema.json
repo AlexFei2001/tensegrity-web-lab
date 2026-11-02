@@ -1,0 +1,348 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Tensegrity Web Lab sample array v1",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "modelHash",
+      "parameters",
+      "solver",
+      "results",
+      "geometry",
+      "units"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "minLength": 1
+      },
+      "modelHash": {
+        "type": "string",
+        "pattern": "^[a-f0-9]{64}$"
+      },
+      "parameters": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "bottomRadius",
+          "topRadius",
+          "topZ",
+          "bottomZ",
+          "twist_deg",
+          "pretension_parameter",
+          "loadPerNode"
+        ],
+        "properties": {
+          "bottomRadius": {
+            "type": "number",
+            "minimum": 0.5,
+            "maximum": 1.5
+          },
+          "topRadius": {
+            "type": "number",
+            "minimum": 0.5,
+            "maximum": 1.5
+          },
+          "topZ": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 10
+          },
+          "bottomZ": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 10
+          },
+          "twist_deg": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 360
+          },
+          "pretension_parameter": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "loadPerNode": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          }
+        }
+      },
+      "solver": {
+        "type": "object",
+        "required": [
+          "source",
+          "validated",
+          "converged",
+          "status",
+          "version"
+        ],
+        "properties": {
+          "source": {
+            "const": "grasshopper"
+          },
+          "validated": {
+            "type": "boolean"
+          },
+          "converged": {
+            "type": "boolean"
+          },
+          "status": {
+            "enum": [
+              "precomputed",
+              "failed"
+            ]
+          },
+          "version": {
+            "type": "object"
+          },
+          "elapsedSeconds": {
+            "type": "number",
+            "minimum": 0
+          }
+        }
+      },
+      "results": {
+        "type": "object",
+        "required": [
+          "maxDisplacement_m",
+          "mass_kg",
+          "feasible",
+          "failureReasons"
+        ],
+        "properties": {
+          "maxDisplacement_m": {
+            "type": [
+              "number",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "mass_kg": {
+            "type": [
+              "number",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "feasible": {
+            "type": "boolean"
+          },
+          "failureReasons": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "geometry": {
+        "type": "object",
+        "required": [
+          "nodes",
+          "members"
+        ],
+        "properties": {
+          "nodes": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "id",
+                "position",
+                "deformedPosition"
+              ],
+              "properties": {
+                "id": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "position": {
+                  "$ref": "#/definitions/point"
+                },
+                "deformedPosition": {
+                  "$ref": "#/definitions/point"
+                }
+              }
+            }
+          },
+          "members": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "id",
+                "kind",
+                "nodes"
+              ],
+              "properties": {
+                "id": {
+                  "type": "string"
+                },
+                "kind": {
+                  "enum": [
+                    "cable",
+                    "strut"
+                  ]
+                },
+                "nodes": {
+                  "type": "array",
+                  "minItems": 2,
+                  "maxItems": 2,
+                  "items": {
+                    "type": "integer",
+                    "minimum": 0
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "units": {
+        "type": "object",
+        "required": [
+          "length",
+          "displacement",
+          "force"
+        ],
+        "properties": {
+          "length": {
+            "const": "m"
+          },
+          "displacement": {
+            "const": "m"
+          },
+          "force": {
+            "enum": [
+              "uncalibrated",
+              "N"
+            ]
+          }
+        }
+      }
+    },
+    "allOf": [
+      {
+        "if": {
+          "properties": {
+            "solver": {
+              "properties": {
+                "validated": {
+                  "const": true
+                }
+              }
+            }
+          }
+        },
+        "then": {
+          "properties": {
+            "solver": {
+              "properties": {
+                "converged": {
+                  "const": true
+                },
+                "status": {
+                  "const": "precomputed"
+                }
+              }
+            },
+            "results": {
+              "properties": {
+                "maxDisplacement_m": {
+                  "type": "number",
+                  "minimum": 0
+                }
+              }
+            },
+            "geometry": {
+              "properties": {
+                "nodes": {
+                  "minItems": 6
+                },
+                "members": {
+                  "minItems": 12
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "if": {
+          "properties": {
+            "results": {
+              "properties": {
+                "feasible": {
+                  "const": true
+                }
+              }
+            }
+          }
+        },
+        "then": {
+          "properties": {
+            "solver": {
+              "properties": {
+                "validated": {
+                  "const": true
+                },
+                "converged": {
+                  "const": true
+                }
+              }
+            },
+            "results": {
+              "properties": {
+                "failureReasons": {
+                  "maxItems": 0
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "if": {
+          "properties": {
+            "solver": {
+              "properties": {
+                "validated": {
+                  "const": false
+                }
+              }
+            }
+          }
+        },
+        "then": {
+          "properties": {
+            "results": {
+              "properties": {
+                "feasible": {
+                  "const": false
+                },
+                "failureReasons": {
+                  "minItems": 1
+                }
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  "definitions": {
+    "point": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 3,
+      "items": {
+        "type": "number"
+      }
+    }
+  }
+}

@@ -1,0 +1,3612 @@
+{
+  "mode": "mathematical-playground",
+  "function": "Rastrigin 2D",
+  "algorithm": "GA",
+  "seed": 44,
+  "budget": 200,
+  "realStructuralEvaluations": 0,
+  "feasibleFraction": 1,
+  "elapsedMs": 0.44700000000000273,
+  "history": [
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 1,
+      "fitness": 63.29946950259456,
+      "best": 63.29946950259456,
+      "bestPoint": [
+        3.4424855780601495,
+        -3.4845220518112185
+      ],
+      "point": [
+        3.4424855780601495,
+        -3.4845220518112185
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 0
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 2,
+      "fitness": 40.187816963210494,
+      "best": 40.187816963210494,
+      "bestPoint": [
+        -4.268746454715729,
+        3.0818269610404974
+      ],
+      "point": [
+        -4.268746454715729,
+        3.0818269610404974
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 0
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 3,
+      "fitness": 20.303617000556095,
+      "best": 20.303617000556095,
+      "bestPoint": [
+        1.3960059952735904,
+        -0.04587501287460327
+      ],
+      "point": [
+        1.3960059952735904,
+        -0.04587501287460327
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 0
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 4,
+      "fitness": 24.256367338328705,
+      "best": 20.303617000556095,
+      "bestPoint": [
+        1.3960059952735904,
+        -0.04587501287460327
+      ],
+      "point": [
+        0.26326239585876454,
+        -1.2775531601905823
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 0
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 5,
+      "fitness": 25.1051627275122,
+      "best": 20.303617000556095,
+      "bestPoint": [
+        1.3960059952735904,
+        -0.04587501287460327
+      ],
+      "point": [
+        1.0742337894439702,
+        2.6503806829452516
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 0
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 6,
+      "fitness": 42.77827327494538,
+      "best": 20.303617000556095,
+      "bestPoint": [
+        1.3960059952735904,
+        -0.04587501287460327
+      ],
+      "point": [
+        -2.291346731185913,
+        -4.99552654504776
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 0
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 7,
+      "fitness": 58.944779721301536,
+      "best": 20.303617000556095,
+      "bestPoint": [
+        1.3960059952735904,
+        -0.04587501287460327
+      ],
+      "point": [
+        4.8488681149482735,
+        3.4441736721992493
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 0
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 8,
+      "fitness": 55.274074365604974,
+      "best": 20.303617000556095,
+      "bestPoint": [
+        1.3960059952735904,
+        -0.04587501287460327
+      ],
+      "point": [
+        3.4044218921661384,
+        -5.027929224967957
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 0
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 9,
+      "fitness": 16.290889331614125,
+      "best": 16.290889331614125,
+      "bestPoint": [
+        -0.8603795337677003,
+        1.2558284020423889
+      ],
+      "point": [
+        -0.8603795337677003,
+        1.2558284020423889
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 0
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 10,
+      "fitness": 9.495744160155029,
+      "best": 9.495744160155029,
+      "bestPoint": [
+        0.168582332134247,
+        0.15422464609146136
+      ],
+      "point": [
+        0.168582332134247,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 0
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 11,
+      "fitness": 10.918235703067976,
+      "best": 9.495744160155029,
+      "bestPoint": [
+        0.168582332134247,
+        0.15422464609146136
+      ],
+      "point": [
+        -0.02291832923889192,
+        -1.7883088254928587
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 0
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 12,
+      "fitness": 68.50006798370781,
+      "best": 9.495744160155029,
+      "bestPoint": [
+        0.168582332134247,
+        0.15422464609146136
+      ],
+      "point": [
+        4.476898736953735,
+        -4.257012240886688
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 0
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 13,
+      "fitness": 9.495744160155029,
+      "best": 9.495744160155029,
+      "bestPoint": [
+        0.168582332134247,
+        0.15422464609146136
+      ],
+      "point": [
+        0.168582332134247,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 1
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 14,
+      "fitness": 26.85180480233732,
+      "best": 9.495744160155029,
+      "bestPoint": [
+        0.168582332134247,
+        0.15422464609146136
+      ],
+      "point": [
+        0.14653317832946766,
+        2.6503806829452516
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 1
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 15,
+      "fitness": 22.625535156818437,
+      "best": 9.495744160155029,
+      "bestPoint": [
+        0.168582332134247,
+        0.15422464609146136
+      ],
+      "point": [
+        -1.4915901699066163,
+        -0.04587501287460327
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 1
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 16,
+      "fitness": 17.521114911538522,
+      "best": 9.495744160155029,
+      "bestPoint": [
+        0.168582332134247,
+        0.15422464609146136
+      ],
+      "point": [
+        -1.8686866545677185,
+        -1.7883088254928587
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 1
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 17,
+      "fitness": 11.918847481729946,
+      "best": 9.495744160155029,
+      "bestPoint": [
+        0.168582332134247,
+        0.15422464609146136
+      ],
+      "point": [
+        0.26326239585876454,
+        1.0055483784675598
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 1
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 18,
+      "fitness": 19.294279716425354,
+      "best": 9.495744160155029,
+      "bestPoint": [
+        0.168582332134247,
+        0.15422464609146136
+      ],
+      "point": [
+        0.5872446985244753,
+        -0.04587501287460327
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 1
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 19,
+      "fitness": 24.00128775723379,
+      "best": 9.495744160155029,
+      "bestPoint": [
+        0.168582332134247,
+        0.15422464609146136
+      ],
+      "point": [
+        1.0199021964073185,
+        2.6503806829452516
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 1
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 20,
+      "fitness": 21.140041836316207,
+      "best": 9.495744160155029,
+      "bestPoint": [
+        0.168582332134247,
+        0.15422464609146136
+      ],
+      "point": [
+        0.26326239585876454,
+        0.7552858519554138
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 1
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 21,
+      "fitness": 33.563217914864914,
+      "best": 9.495744160155029,
+      "bestPoint": [
+        0.168582332134247,
+        0.15422464609146136
+      ],
+      "point": [
+        0.48778465175628694,
+        -1.2775531601905823
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 1
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 22,
+      "fitness": 30.222656184820515,
+      "best": 9.495744160155029,
+      "bestPoint": [
+        0.168582332134247,
+        0.15422464609146136
+      ],
+      "point": [
+        0.4366324806213383,
+        -1.7883088254928587
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 1
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 23,
+      "fitness": 30.811070669475654,
+      "best": 9.495744160155029,
+      "bestPoint": [
+        0.168582332134247,
+        0.15422464609146136
+      ],
+      "point": [
+        0.5386400227546696,
+        -1.7883088254928587
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 1
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 24,
+      "fitness": 35.86090975089036,
+      "best": 9.495744160155029,
+      "bestPoint": [
+        0.168582332134247,
+        0.15422464609146136
+      ],
+      "point": [
+        1.7514258122444157,
+        2.6503806829452516
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 1
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 25,
+      "fitness": 9.495744160155029,
+      "best": 9.495744160155029,
+      "bestPoint": [
+        0.168582332134247,
+        0.15422464609146136
+      ],
+      "point": [
+        0.168582332134247,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 2
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 26,
+      "fitness": 41.04603350428103,
+      "best": 9.495744160155029,
+      "bestPoint": [
+        0.168582332134247,
+        0.15422464609146136
+      ],
+      "point": [
+        0.5872446985244753,
+        1.4856348333358764
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 2
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 27,
+      "fitness": 40.10035218691911,
+      "best": 9.495744160155029,
+      "bestPoint": [
+        0.168582332134247,
+        0.15422464609146136
+      ],
+      "point": [
+        -1.4915901699066163,
+        0.3907918276786806
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 2
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 28,
+      "fitness": 5.358080215249558,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 2
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 29,
+      "fitness": 23.109482177172765,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        1.3705030565261842,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 2
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 30,
+      "fitness": 24.386581528334425,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.26326239585876454,
+        1.7428784260749817
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 2
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 31,
+      "fitness": 28.750556629949145,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.26326239585876454,
+        0.6157524495124818
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 2
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 32,
+      "fitness": 6.171580768177236,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.168582332134247,
+        -1.0097854709625245
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 2
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 33,
+      "fitness": 21.699641409431738,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.5872446985244753,
+        -0.12218742084503187
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 2
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 34,
+      "fitness": 30.916035128686048,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.26326239585876454,
+        1.617454565525055
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 2
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 35,
+      "fitness": 19.983679704070255,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        -0.34275237846374496,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 2
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 36,
+      "fitness": 8.644467385994687,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        -1.9506622643470766,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 2
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 37,
+      "fitness": 5.358080215249558,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 3
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 38,
+      "fitness": 35.56041826577652,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        -0.34275237846374496,
+        -0.5425268630981447
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 3
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 39,
+      "fitness": 14.341383703800195,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        -1.9506622643470766,
+        0.7582037911415102
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 3
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 40,
+      "fitness": 10.178126551302908,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.9935460133552553,
+        0.7725819697380067
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 3
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 41,
+      "fitness": 35.47456462816389,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        -0.34275237846374496,
+        -0.5477339286804198
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 3
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 42,
+      "fitness": 22.648935806106124,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.6044993562698365,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 3
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 43,
+      "fitness": 8.467028412876328,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        -1.9506622643470766,
+        0.15079334926605242
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 3
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 44,
+      "fitness": 9.43370659812858,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.16745467948913592,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 3
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 45,
+      "fitness": 6.06310844968824,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        -0.09392907714843735,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 3
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 46,
+      "fitness": 7.675855883194041,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.13304900312423723,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 3
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 47,
+      "fitness": 26.623084648597704,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        -1.5052732515335085,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 3
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 48,
+      "fitness": 38.09862325519477,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.5872446985244753,
+        -0.42948830318450915
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 3
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 49,
+      "fitness": 5.358080215249558,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 4
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 50,
+      "fitness": 22.640077765605874,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        -0.6047375926971433,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 4
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 51,
+      "fitness": 22.65064563483461,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.4010047440528871,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 4
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 52,
+      "fitness": 10.36019046140781,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        -0.9645481019020079,
+        0.7725819697380067
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 4
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 53,
+      "fitness": 28.40302513917218,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.4295335950851442,
+        0.7725819697380067
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 4
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 54,
+      "fitness": 22.5719489856684,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        -1.3597143468856814,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 4
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 55,
+      "fitness": 19.82014471411266,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        -0.7487792291641233,
+        0.7725819697380067
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 4
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 56,
+      "fitness": 9.014459670532464,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.9935460133552553,
+        0.7919956660270693
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 4
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 57,
+      "fitness": 30.59221081600441,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        -2.5291271615028386,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 4
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 58,
+      "fitness": 9.67188128534217,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.13304900312423723,
+        -0.1900662608146666
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 4
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 59,
+      "fitness": 13.802753054077735,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.9935460133552553,
+        0.7130814633369448
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 4
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 60,
+      "fitness": 7.224588112514773,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.896028829097748,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 4
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 61,
+      "fitness": 5.358080215249558,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 5
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 62,
+      "fitness": 14.470688113176104,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        -0.9645481019020079,
+        -0.3018774008750914
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 5
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 63,
+      "fitness": 26.605400090682345,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.5073991236686708,
+        -0.1900662608146666
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 5
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 64,
+      "fitness": 21.61171582155574,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.9935460133552553,
+        1.4151930871009828
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 5
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 65,
+      "fitness": 18.264892321263147,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.9935460133552553,
+        0.3762854337692263
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 5
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 66,
+      "fitness": 21.248036610922217,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        1.3352233738899233,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 5
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 67,
+      "fitness": 14.821866319484336,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.13304900312423723,
+        0.734550916194916
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 5
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 68,
+      "fitness": 11.522253334627989,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.8067620515823366,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 5
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 69,
+      "fitness": 22.42594325259791,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        -0.3208122940063475,
+        0.7919956660270693
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 5
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 70,
+      "fitness": 17.89998607954555,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.9935460133552553,
+        1.6832657046318056
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 5
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 71,
+      "fitness": 30.377056921641035,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.383129451274872,
+        0.7130814633369448
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 5
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 72,
+      "fitness": 7.089749740925187,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.9935460133552553,
+        -0.18554494428634627
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 5
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 73,
+      "fitness": 5.358080215249558,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 6
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 74,
+      "fitness": 12.998918325468935,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.08777012729644784,
+        0.734550916194916
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 6
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 75,
+      "fitness": 17.921263660183698,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.9844985351562502,
+        1.6832657046318056
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 6
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 76,
+      "fitness": 31.752810051226035,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.49649150705337536,
+        0.734550916194916
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 6
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 77,
+      "fitness": 21.830396861046843,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.9935460133552553,
+        1.594368871688843
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 6
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 78,
+      "fitness": 9.297349101661917,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.9935460133552553,
+        1.834500946044922
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 6
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 79,
+      "fitness": 22.86447038471276,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        -0.40686791801452615,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 6
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 80,
+      "fitness": 10.976393567518382,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.8067620515823366,
+        0.8721606082916261
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 6
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 81,
+      "fitness": 19.86544769557777,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        -0.9645481019020079,
+        -0.5931314845085143
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 6
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 82,
+      "fitness": 7.226445990866644,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.12318025732040422,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 6
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 83,
+      "fitness": 28.3802398248055,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        -0.33289539241790755,
+        -0.3018774008750914
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 6
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 84,
+      "fitness": 16.95928348757779,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        -0.01660494089126574,
+        1.6832657046318056
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 6
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 85,
+      "fitness": 5.358080215249558,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 7
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 86,
+      "fitness": 12.303679760944762,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.9935460133552553,
+        0.7378297834396365
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 7
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 87,
+      "fitness": 18.11674099675099,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.8067620515823366,
+        0.264142680168152
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 7
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 88,
+      "fitness": 28.16812043779797,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.5470118331909181,
+        1.834500946044922
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 7
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 89,
+      "fitness": 21.79963850591065,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.16423061227798474,
+        1.6832657046318056
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 7
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 90,
+      "fitness": 8.15771184388855,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.8067620515823366,
+        0.9989910206794741
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 7
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 91,
+      "fitness": 8.296092050764013,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        0.869502887248993,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 7
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 92,
+      "fitness": 17.50208065118753,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        1.7394983334541323,
+        0.8721606082916261
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 7
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 93,
+      "fitness": 8.65897124524789,
+      "best": 5.358080215249558,
+      "bestPoint": [
+        0.9935460133552553,
+        0.15422464609146136
+      ],
+      "point": [
+        1.9497230982780458,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 7
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 94,
+      "fitness": 4.042259319428506,
+      "best": 4.042259319428506,
+      "bestPoint": [
+        -0.01660494089126574,
+        1.996176908016205
+      ],
+      "point": [
+        -0.01660494089126574,
+        1.996176908016205
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 7
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 95,
+      "fitness": 16.986649818820737,
+      "best": 4.042259319428506,
+      "bestPoint": [
+        -0.01660494089126574,
+        1.996176908016205
+      ],
+      "point": [
+        0.17477259016037006,
+        0.734550916194916
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 7
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 96,
+      "fitness": 18.291218884252743,
+      "best": 4.042259319428506,
+      "bestPoint": [
+        -0.01660494089126574,
+        1.996176908016205
+      ],
+      "point": [
+        0.9503062911033633,
+        1.6832657046318056
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 7
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 97,
+      "fitness": 4.042259319428506,
+      "best": 4.042259319428506,
+      "bestPoint": [
+        -0.01660494089126574,
+        1.996176908016205
+      ],
+      "point": [
+        -0.01660494089126574,
+        1.996176908016205
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 8
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 98,
+      "fitness": 6.05652489292866,
+      "best": 4.042259319428506,
+      "bestPoint": [
+        -0.01660494089126574,
+        1.996176908016205
+      ],
+      "point": [
+        0.869502887248993,
+        -0.10535289001464826
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 8
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 99,
+      "fitness": 21.81968623680229,
+      "best": 4.042259319428506,
+      "bestPoint": [
+        -0.01660494089126574,
+        1.996176908016205
+      ],
+      "point": [
+        -0.01660494089126574,
+        1.4572519998550417
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 8
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 100,
+      "fitness": 1.715088163648673,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 8
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 101,
+      "fitness": 6.7677520454731805,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        -0.01660494089126574,
+        0.814636947154999
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 8
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 102,
+      "fitness": 11.370898025113373,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        1.8617356562614442,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 8
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 103,
+      "fitness": 24.295652079228866,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        -0.01660494089126574,
+        2.4097306289672855
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 8
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 104,
+      "fitness": 1.748360742921541,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        0.9935460133552553,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 8
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 105,
+      "fitness": 24.469236762755155,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        1.9497230982780458,
+        0.5225322237014773
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 8
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 106,
+      "fitness": 23.883533079389686,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        0.5639832434654237,
+        0.15422464609146136
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 8
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 107,
+      "fitness": 8.644455343284179,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        -0.01660494089126574,
+        1.2038463845252994
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 8
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 108,
+      "fitness": 4.673616204153905,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        0.9935460133552553,
+        0.1406745104789736
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 8
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 109,
+      "fitness": 1.715088163648673,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 9
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 110,
+      "fitness": 29.23083875649085,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        0.869502887248993,
+        2.4416641788482667
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 9
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 111,
+      "fitness": 26.005986566162314,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        0.869502887248993,
+        2.3624377894401554
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 9
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 112,
+      "fitness": 14.802643076682841,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        1.2432913546562196,
+        0.1406745104789736
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 9
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 113,
+      "fitness": 8.247038601767041,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        1.0472374587059021,
+        0.814636947154999
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 9
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 114,
+      "fitness": 15.613829908384798,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        0.6774559450149538,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 9
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 115,
+      "fitness": 19.401654165908617,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        0.7150685100555422,
+        0.814636947154999
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 9
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 116,
+      "fitness": 22.3306504388588,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        0.5174869751930238,
+        -0.10535289001464826
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 9
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 117,
+      "fitness": 20.324304474208063,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        0.5718142137527467,
+        0.9989910206794741
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 9
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 118,
+      "fitness": 5.336711120198736,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        -0.9525134105682372,
+        1.996176908016205
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 9
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 119,
+      "fitness": 8.451635989572157,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        0.09500892210006723,
+        0.814636947154999
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 9
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 120,
+      "fitness": 21.96504776631601,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        -0.01660494089126574,
+        1.5501633071899417
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 9
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 121,
+      "fitness": 1.715088163648673,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 10
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 122,
+      "fitness": 11.06031651706653,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        -0.15392679405212395,
+        0.814636947154999
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 10
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 123,
+      "fitness": 16.367478941171733,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        0.6634441180229188,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 10
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 124,
+      "fitness": 3.3295798331129305,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        1.0472374587059021,
+        -0.09660531663894634
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 10
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 125,
+      "fitness": 18.979263727005254,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        0.09500892210006723,
+        0.6300368909835817
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 10
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 126,
+      "fitness": 31.038424101735202,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        1.2432913546562196,
+        0.4610158119201663
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 10
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 127,
+      "fitness": 3.906653317128832,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        1.10086115026474,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 10
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 128,
+      "fitness": 23.903052228540556,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        -0.3745194973945617,
+        0.814636947154999
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 10
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 129,
+      "fitness": 24.171380021245426,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        0.3805537338256836,
+        0.814636947154999
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 10
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 130,
+      "fitness": 18.50115922576704,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        1.3463413667678834,
+        0.9989910206794741
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 10
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 131,
+      "fitness": 18.184460427362932,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        0.3225490837097168,
+        0.1406745104789736
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 10
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 132,
+      "fitness": 15.488453861626583,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        1.2432913546562196,
+        -0.15425049304962135
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 10
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 133,
+      "fitness": 1.715088163648673,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 11
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 134,
+      "fitness": 17.033599018975693,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        1.6946375660896302,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 11
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 135,
+      "fitness": 21.246234162056062,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        -0.4984949874877929,
+        0.9989910206794741
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 11
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 136,
+      "fitness": 3.3245622127381544,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        1.0472374587059021,
+        -0.9310527343749999
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 11
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 137,
+      "fitness": 4.138101488080828,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        0.8824358477592469,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 11
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 138,
+      "fitness": 14.976615071218173,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        1.0472374587059021,
+        -0.7023504981994627
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 11
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 139,
+      "fitness": 21.231546480198777,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        0.5120993819236757,
+        0.9989910206794741
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 11
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 140,
+      "fitness": 4.869862952986047,
+      "best": 1.715088163648673,
+      "bestPoint": [
+        0.060474302768707355,
+        0.9989910206794741
+      ],
+      "point": [
+        2.0162034187316893,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 11
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 141,
+      "fitness": 1.0023597434532476,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 11
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 142,
+      "fitness": 15.04020421827838,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        0.31450826978683477,
+        0.9989910206794741
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 11
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 143,
+      "fitness": 33.40336043875847,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        0.6634441180229188,
+        1.351659817695618
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 11
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 144,
+      "fitness": 15.49377514088555,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        -0.30866049385070793,
+        -0.09660531663894634
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 11
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 145,
+      "fitness": 1.0023597434532476,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 12
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 146,
+      "fitness": 8.764693456171884,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        2.0162034187316893,
+        0.8540451793670656
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 12
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 147,
+      "fitness": 7.8639634273194154,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        0.18518249845504764,
+        -0.9310527343749999
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 12
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 148,
+      "fitness": 19.92454472689078,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        1.358248918056488,
+        -0.9310527343749999
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 12
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 149,
+      "fitness": 23.533001601230907,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        1.559446820735931,
+        -0.9310527343749999
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 12
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 150,
+      "fitness": 6.546725008688703,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        1.0472374587059021,
+        0.8466050019264224
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 12
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 151,
+      "fitness": 7.997118653512203,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        1.8809772205352784,
+        -0.9310527343749999
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 12
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 152,
+      "fitness": 5.428144909308763,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        2.0162034187316893,
+        1.0349512019157412
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 12
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 153,
+      "fitness": 2.685256418709926,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        0.935417531490326,
+        0.9989910206794741
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 12
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 154,
+      "fitness": 17.391131758533362,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        1.0472374587059021,
+        -0.6587728066444396
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 12
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 155,
+      "fitness": 19.892472718504923,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        -0.035525743484497,
+        -1.390137505531311
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 12
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 156,
+      "fitness": 16.768825322865514,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        0.6604485845565797,
+        0.9989910206794741
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 12
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 157,
+      "fitness": 1.0023597434532476,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 13
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 158,
+      "fitness": 21.452494756202608,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        1.5985276861190796,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 13
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 159,
+      "fitness": 7.307312920673194,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        -0.827675151348114,
+        1.0349512019157412
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 13
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 160,
+      "fitness": 16.864289774642614,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        0.18518249845504764,
+        0.746275061607361
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 13
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 161,
+      "fitness": 6.666776232365152,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        0.9368771734237672,
+        0.8466050019264224
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 13
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 162,
+      "fitness": 3.184306472203268,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        1.0808584523200988,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 13
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 163,
+      "fitness": 1.6996109409924856,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        0.935417531490326,
+        -0.007950714111327972
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 13
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 164,
+      "fitness": 7.3237147592694605,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        -0.035525743484497,
+        1.8602462759017948
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 13
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 165,
+      "fitness": 14.461308927938061,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        1.756606526374817,
+        -0.9310527343749999
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 13
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 166,
+      "fitness": 3.9058580602029203,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        0.9188854703903199,
+        -0.9310527343749999
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 13
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 167,
+      "fitness": 1.8471887359156334,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        0.935417531490326,
+        0.02844663906097422
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 13
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 168,
+      "fitness": 17.2692177243358,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        0.18518249845504764,
+        0.7396672444343568
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 13
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 169,
+      "fitness": 1.0023597434532476,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 14
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 170,
+      "fitness": 16.545644975569825,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        1.7213234562873843,
+        -0.9310527343749999
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 14
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 171,
+      "fitness": 11.008670205839481,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        0.2530500702857972,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 14
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 172,
+      "fitness": 8.092152331587691,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        0.20643083095550546,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 14
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 173,
+      "fitness": 4.39721498596078,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        0.15464556407928476,
+        -0.007950714111327972
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 14
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 174,
+      "fitness": 3.9174952421831897,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        0.14228697824478143,
+        0.02844663906097422
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 14
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 175,
+      "fitness": 14.310734425648041,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        0.7003844070434572,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 14
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 176,
+      "fitness": 4.447614173517859,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        1.941623190879822,
+        -0.007950714111327972
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 14
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 177,
+      "fitness": 1.506230402097252,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        -0.035525743484497,
+        1.0313373889923099
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 14
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 178,
+      "fitness": 21.217975359895377,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        0.9368771734237672,
+        -0.562115584373474
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 14
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 179,
+      "fitness": 20.023959830758145,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        -0.5738865551948547,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 14
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 180,
+      "fitness": 23.11846672445136,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        1.3577019786834719,
+        0.8466050019264224
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 14
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 181,
+      "fitness": 1.0023597434532476,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 15
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 182,
+      "fitness": 21.76706563237255,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        0.20643083095550546,
+        0.3211800374984743
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 15
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 183,
+      "fitness": 2.981084958999702,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        0.9150572514533998,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 15
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 184,
+      "fitness": 20.05162924859949,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        -0.43240777826309207,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 15
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 185,
+      "fitness": 3.4793105461201783,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        0.12003677558898919,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 15
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 186,
+      "fitness": 8.822142107852319,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        1.941623190879822,
+        1.1290745520591738
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 15
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 187,
+      "fitness": 15.216974839079018,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        -0.035525743484497,
+        0.6755104155540468
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 15
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 188,
+      "fitness": 14.428866720886976,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        1.941623190879822,
+        -0.2489150700569152
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 15
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 189,
+      "fitness": 20.73797641137878,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        -0.5394781546592712,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 15
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 190,
+      "fitness": 17.67476847501706,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        -0.035525743484497,
+        0.3798020186424257
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 15
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 191,
+      "fitness": 9.147461297593882,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        0.20643083095550546,
+        0.9303348245620731
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 15
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 192,
+      "fitness": 7.174370951595609,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        -0.8198776249885559,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 15
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 193,
+      "fitness": 1.0023597434532476,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 16
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 194,
+      "fitness": 5.5390265308706965,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        1.941623190879822,
+        0.9714746146202089
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 16
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 195,
+      "fitness": 11.30679174305024,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        0.25775942277908337,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 16
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 196,
+      "fitness": 9.450035365133544,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        1.941623190879822,
+        0.16643243551254294
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 16
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 197,
+      "fitness": 4.9888846767802555,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        1.1258828859329224,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 16
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 198,
+      "fitness": 21.52077551275094,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        0.12003677558898919,
+        0.5899047851562502
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 16
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 199,
+      "fitness": 23.418274966970486,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        0.20643083095550546,
+        0.35153395843505875
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 16
+    },
+    {
+      "algorithm": "GA",
+      "seed": 44,
+      "evaluation": 200,
+      "fitness": 11.949348036663036,
+      "best": 1.0023597434532476,
+      "bestPoint": [
+        -0.035525743484497,
+        0.061997252464294605
+      ],
+      "point": [
+        1.781691149711609,
+        0.061997252464294605
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "generation": 16
+    }
+  ]
+}

@@ -1,0 +1,4410 @@
+{
+  "mode": "mathematical-playground",
+  "function": "Rastrigin 2D",
+  "algorithm": "SA",
+  "seed": 44,
+  "budget": 200,
+  "realStructuralEvaluations": 0,
+  "feasibleFraction": 1,
+  "elapsedMs": 0.894999999999996,
+  "history": [
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 1,
+      "fitness": 63.29946950259456,
+      "best": 63.29946950259456,
+      "bestPoint": [
+        3.4424855780601495,
+        -3.4845220518112185
+      ],
+      "point": [
+        3.4424855780601495,
+        -3.4845220518112185
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 10,
+      "accepted": true,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 2,
+      "fitness": 22.014520834478734,
+      "best": 22.014520834478734,
+      "bestPoint": [
+        2.8588678987044833,
+        -3.063178521981463
+      ],
+      "point": [
+        2.8588678987044833,
+        -3.063178521981463
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 10,
+      "delta": -41.28494866811583,
+      "probability": 1,
+      "accepted": true,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 3,
+      "fitness": 21.437665111224774,
+      "best": 21.437665111224774,
+      "bestPoint": [
+        2.8525959242880337,
+        -3.027185616297648
+      ],
+      "point": [
+        2.8525959242880337,
+        -3.027185616297648
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 9.5,
+      "delta": -0.57685572325396,
+      "probability": 1,
+      "accepted": true,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 4,
+      "fitness": 31.197818561200712,
+      "best": 21.437665111224774,
+      "bestPoint": [
+        2.8525959242880337,
+        -3.027185616297648
+      ],
+      "point": [
+        2.9994638251885766,
+        -2.6648288823012267
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 9.025,
+      "delta": 9.760153449975938,
+      "probability": 0.33910094401157365,
+      "accepted": true,
+      "acceptedWorse": true
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 5,
+      "fitness": 23.431138121543796,
+      "best": 21.437665111224774,
+      "bestPoint": [
+        2.8525959242880337,
+        -3.027185616297648
+      ],
+      "point": [
+        2.3164816803578283,
+        -2.0018976947106424
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 8.57375,
+      "delta": -7.766680439656916,
+      "probability": 1,
+      "accepted": true,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 6,
+      "fitness": 36.7002595609059,
+      "best": 21.437665111224774,
+      "bestPoint": [
+        2.8525959242880337,
+        -3.027185616297648
+      ],
+      "point": [
+        2.7819299859274174,
+        -2.68930989343673
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 8.1450625,
+      "delta": 13.269121439362102,
+      "probability": 0.196105987214974,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 7,
+      "fitness": 30.16746336437536,
+      "best": 21.437665111224774,
+      "bestPoint": [
+        2.8525959242880337,
+        -3.027185616297648
+      ],
+      "point": [
+        2.4881769696995613,
+        -1.9788493289891633
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 7.737809374999999,
+      "delta": 6.736325242831565,
+      "probability": 0.41871170369713,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 8,
+      "fitness": 34.04727328988148,
+      "best": 21.437665111224774,
+      "bestPoint": [
+        2.8525959242880337,
+        -3.027185616297648
+      ],
+      "point": [
+        2.3133483150321985,
+        -2.246393041945994
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 7.3509189062499996,
+      "delta": 10.616135168337685,
+      "probability": 0.2359367361395793,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 9,
+      "fitness": 26.497755233492473,
+      "best": 21.437665111224774,
+      "bestPoint": [
+        2.8525959242880337,
+        -3.027185616297648
+      ],
+      "point": [
+        1.7344682880491016,
+        -2.2118026848696175
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 6.9833729609374995,
+      "delta": 3.066617111948677,
+      "probability": 0.6445961879621188,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 10,
+      "fitness": 27.023631590763674,
+      "best": 21.437665111224774,
+      "bestPoint": [
+        2.8525959242880337,
+        -3.027185616297648
+      ],
+      "point": [
+        2.1946557861100877,
+        -1.313578457925469
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 6.634204312890624,
+      "delta": 3.592493469219878,
+      "probability": 0.5818684848740466,
+      "accepted": true,
+      "acceptedWorse": true
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 11,
+      "fitness": 39.74148945882831,
+      "best": 21.437665111224774,
+      "bestPoint": [
+        2.8525959242880337,
+        -3.027185616297648
+      ],
+      "point": [
+        2.3351591267436738,
+        -1.637193748801947
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 6.302494097246092,
+      "delta": 12.717857868064637,
+      "probability": 0.13293317357687592,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 12,
+      "fitness": 28.53915204813238,
+      "best": 21.437665111224774,
+      "bestPoint": [
+        2.8525959242880337,
+        -3.027185616297648
+      ],
+      "point": [
+        2.1089752725604916,
+        -1.5544156848732384
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 5.987369392383788,
+      "delta": 1.515520457368705,
+      "probability": 0.7763750332658554,
+      "accepted": true,
+      "acceptedWorse": true
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 13,
+      "fitness": 23.69891853040542,
+      "best": 21.437665111224774,
+      "bestPoint": [
+        2.8525959242880337,
+        -3.027185616297648
+      ],
+      "point": [
+        1.419702826701104,
+        -1.0950289753079416
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 5.688000922764598,
+      "delta": -4.840233517726958,
+      "probability": 1,
+      "accepted": true,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 14,
+      "fitness": 34.855068905922934,
+      "best": 21.437665111224774,
+      "bestPoint": [
+        2.8525959242880337,
+        -3.027185616297648
+      ],
+      "point": [
+        1.517868690406903,
+        -1.2661188351735475
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 5.403600876626368,
+      "delta": 11.156150375517512,
+      "probability": 0.1268719392795656,
+      "accepted": true,
+      "acceptedWorse": true
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 15,
+      "fitness": 38.43236171509318,
+      "best": 21.437665111224774,
+      "bestPoint": [
+        2.8525959242880337,
+        -3.027185616297648
+      ],
+      "point": [
+        1.687290848772972,
+        -1.5592414019908758
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 5.133420832795049,
+      "delta": 3.5772928091702454,
+      "probability": 0.4981453663323842,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 16,
+      "fitness": 20.87949149584223,
+      "best": 20.87949149584223,
+      "bestPoint": [
+        2.0495719456858925,
+        -0.6520648618042472
+      ],
+      "point": [
+        2.0495719456858925,
+        -0.6520648618042472
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 4.876749791155296,
+      "delta": -13.975577410080703,
+      "probability": 1,
+      "accepted": true,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 17,
+      "fitness": 17.294239397247704,
+      "best": 17.294239397247704,
+      "bestPoint": [
+        2.012431208258494,
+        -0.3005586860049519
+      ],
+      "point": [
+        2.012431208258494,
+        -0.3005586860049519
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 4.632912301597531,
+      "delta": -3.585252098594527,
+      "probability": 1,
+      "accepted": true,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 18,
+      "fitness": 37.8716857053012,
+      "best": 17.294239397247704,
+      "bestPoint": [
+        2.012431208258494,
+        -0.3005586860049519
+      ],
+      "point": [
+        2.346725158514454,
+        -0.64272644485347
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 4.401266686517654,
+      "delta": 20.5774463080535,
+      "probability": 0.009322295441576109,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 19,
+      "fitness": 44.5682647170764,
+      "best": 17.294239397247704,
+      "bestPoint": [
+        2.012431208258494,
+        -0.3005586860049519
+      ],
+      "point": [
+        2.4137678128946565,
+        -0.522372235292569
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 4.181203352191771,
+      "delta": 27.2740253198287,
+      "probability": 0.0014692421212445556,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 20,
+      "fitness": 39.955124003619815,
+      "best": 17.294239397247704,
+      "bestPoint": [
+        2.012431208258494,
+        -0.3005586860049519
+      ],
+      "point": [
+        2.502446776702999,
+        -0.6980442961491646
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 3.972143184582182,
+      "delta": 22.66088460637211,
+      "probability": 0.003329438534387515,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 21,
+      "fitness": 27.947512701073332,
+      "best": 17.294239397247704,
+      "bestPoint": [
+        2.012431208258494,
+        -0.3005586860049519
+      ],
+      "point": [
+        1.5765709385555229,
+        0.19409951956011323
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 3.7735360253530725,
+      "delta": 10.653273303825628,
+      "probability": 0.05941824204523569,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 22,
+      "fitness": 33.487402369049846,
+      "best": 17.294239397247704,
+      "bestPoint": [
+        2.012431208258494,
+        -0.3005586860049519
+      ],
+      "point": [
+        1.3565132718812665,
+        -0.666687237452716
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 3.584859224085419,
+      "delta": 16.193162971802142,
+      "probability": 0.01092066177223815,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 23,
+      "fitness": 33.4813746037581,
+      "best": 17.294239397247704,
+      "bestPoint": [
+        2.012431208258494,
+        -0.3005586860049519
+      ],
+      "point": [
+        2.686764156660064,
+        -0.719984214268625
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 3.4056162628811477,
+      "delta": 16.187135206510394,
+      "probability": 0.008625168349468944,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 24,
+      "fitness": 26.62384046080993,
+      "best": 17.294239397247704,
+      "bestPoint": [
+        2.012431208258494,
+        -0.3005586860049519
+      ],
+      "point": [
+        2.1844674743525676,
+        -0.6588327633496376
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 3.2353354497370903,
+      "delta": 9.329601063562226,
+      "probability": 0.05592979505968329,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 25,
+      "fitness": 29.44224967762912,
+      "best": 17.294239397247704,
+      "bestPoint": [
+        2.012431208258494,
+        -0.3005586860049519
+      ],
+      "point": [
+        2.3406153082661323,
+        0.22638475892133975
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 3.0735686772502357,
+      "delta": 12.148010280381417,
+      "probability": 0.01920831191447439,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 26,
+      "fitness": 29.734874729026224,
+      "best": 17.294239397247704,
+      "bestPoint": [
+        2.012431208258494,
+        -0.3005586860049519
+      ],
+      "point": [
+        2.5392055328749112,
+        -0.13884283921681376
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 2.919890243387724,
+      "delta": 12.44063533177852,
+      "probability": 0.014113101892030093,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 27,
+      "fitness": 30.444553811768035,
+      "best": 17.294239397247704,
+      "bestPoint": [
+        2.012431208258494,
+        -0.3005586860049519
+      ],
+      "point": [
+        1.521145091187208,
+        -0.7886250546481464
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 2.7738957312183374,
+      "delta": 13.15031441452033,
+      "probability": 0.008732194679258589,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 28,
+      "fitness": 9.117821467152233,
+      "best": 9.117821467152233,
+      "bestPoint": [
+        2.0970547857973716,
+        -0.8945038319844756
+      ],
+      "point": [
+        2.0970547857973716,
+        -0.8945038319844756
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 2.6352009446574205,
+      "delta": -8.176417930095472,
+      "probability": 1,
+      "accepted": true,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 29,
+      "fitness": 39.901908909834354,
+      "best": 9.117821467152233,
+      "bestPoint": [
+        2.0970547857973716,
+        -0.8945038319844756
+      ],
+      "point": [
+        2.632485303962602,
+        -1.3240733599569652
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 2.5034408974245492,
+      "delta": 30.78408744268212,
+      "probability": 0.00000456674304129709,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 30,
+      "fitness": 37.44271412533445,
+      "best": 9.117821467152233,
+      "bestPoint": [
+        2.0970547857973716,
+        -0.8945038319844756
+      ],
+      "point": [
+        2.318800917482003,
+        -0.39046961975283956
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 2.3782688525533215,
+      "delta": 28.324892658182215,
+      "probability": 0.000006723657201475366,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 31,
+      "fitness": 37.29441812217662,
+      "best": 9.117821467152233,
+      "bestPoint": [
+        2.0970547857973716,
+        -0.8945038319844756
+      ],
+      "point": [
+        1.6806712746899566,
+        -0.5001764265168462
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 2.2593554099256554,
+      "delta": 28.17659665502439,
+      "probability": 0.000003836010724293462,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 32,
+      "fitness": 36.282273966066896,
+      "best": 9.117821467152233,
+      "bestPoint": [
+        2.0970547857973716,
+        -0.8945038319844756
+      ],
+      "point": [
+        1.5336698251590124,
+        -0.6900749074108902
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 2.1463876394293724,
+      "delta": 27.164452498914663,
+      "probability": 0.0000031887132509767197,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 33,
+      "fitness": 36.006143471404066,
+      "best": 9.117821467152233,
+      "bestPoint": [
+        2.0970547857973716,
+        -0.8945038319844756
+      ],
+      "point": [
+        1.4381316210888317,
+        -0.6806513835024092
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 2.0390682574579038,
+      "delta": 26.888322004251833,
+      "probability": 0.0000018756171768463195,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 34,
+      "fitness": 30.11250396206947,
+      "best": 9.117821467152233,
+      "bestPoint": [
+        2.0970547857973716,
+        -0.8945038319844756
+      ],
+      "point": [
+        2.133842364912852,
+        -1.494339077062905
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 1.9371148445850084,
+      "delta": 20.99468249491724,
+      "probability": 0.000019636515932223728,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 35,
+      "fitness": 28.152693629917543,
+      "best": 9.117821467152233,
+      "bestPoint": [
+        2.0970547857973716,
+        -0.8945038319844756
+      ],
+      "point": [
+        1.634060200843959,
+        -0.7784944435395303
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 1.840259102355758,
+      "delta": 19.03487216276531,
+      "probability": 0.00003219875818603305,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 36,
+      "fitness": 40.506126007260875,
+      "best": 9.117821467152233,
+      "bestPoint": [
+        2.0970547857973716,
+        -0.8945038319844756
+      ],
+      "point": [
+        1.601837551901116,
+        -1.396727911597118
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 1.74824614723797,
+      "delta": 31.388304540108642,
+      "probability": 1.594424770619346e-8,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 37,
+      "fitness": 17.197888459402563,
+      "best": 9.117821467152233,
+      "bestPoint": [
+        2.0970547857973716,
+        -0.8945038319844756
+      ],
+      "point": [
+        1.7475095734745256,
+        -1.1205055384244773
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 1.6608338398760714,
+      "delta": 8.08006699225033,
+      "probability": 0.007711315762869999,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 38,
+      "fitness": 11.695477738677553,
+      "best": 9.117821467152233,
+      "bestPoint": [
+        2.0970547857973716,
+        -0.8945038319844756
+      ],
+      "point": [
+        1.797103850990533,
+        -0.9505418464820835
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 1.5777921478822676,
+      "delta": 2.5776562715253206,
+      "probability": 0.19520384130831323,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 39,
+      "fitness": 44.02987815637404,
+      "best": 9.117821467152233,
+      "bestPoint": [
+        2.0970547857973716,
+        -0.8945038319844756
+      ],
+      "point": [
+        2.5867580413632085,
+        -0.4152517019584779
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 1.4989025404881542,
+      "delta": 34.91205668922181,
+      "probability": 7.66519841830328e-11,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 40,
+      "fitness": 21.326296565914067,
+      "best": 9.117821467152233,
+      "bestPoint": [
+        2.0970547857973716,
+        -0.8945038319844756
+      ],
+      "point": [
+        1.9325587156973771,
+        -0.6416219961643223
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 1.4239574134637465,
+      "delta": 12.208475098761834,
+      "probability": 0.00018902642274554505,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 41,
+      "fitness": 47.92528920209849,
+      "best": 9.117821467152233,
+      "bestPoint": [
+        2.0970547857973716,
+        -0.8945038319844756
+      ],
+      "point": [
+        2.5099311544839282,
+        -1.4514484525006268
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 1.3527595427905592,
+      "delta": 38.80746773494626,
+      "probability": 3.4763203596622556e-13,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 42,
+      "fitness": 46.11641236278018,
+      "best": 9.117821467152233,
+      "bestPoint": [
+        2.0970547857973716,
+        -0.8945038319844756
+      ],
+      "point": [
+        2.547296805009245,
+        -0.47179863027297
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 1.285121565651031,
+      "delta": 36.99859089562795,
+      "probability": 3.138208522906305e-13,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 43,
+      "fitness": 16.89126571780078,
+      "best": 9.117821467152233,
+      "bestPoint": [
+        2.0970547857973716,
+        -0.8945038319844756
+      ],
+      "point": [
+        2.0630350036360317,
+        -0.7287706938851628
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 1.2208654873684794,
+      "delta": 7.773444250648549,
+      "probability": 0.0017170309839093885,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 44,
+      "fitness": 37.30423671157903,
+      "best": 9.117821467152233,
+      "bestPoint": [
+        2.0970547857973716,
+        -0.8945038319844756
+      ],
+      "point": [
+        2.7907329022232434,
+        -1.4746120669692757
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 1.1598222130000555,
+      "delta": 28.186415244426797,
+      "probability": 2.7901001714497996e-11,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 45,
+      "fitness": 7.69171901860048,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 1.1018311023500527,
+      "delta": -1.4261024485517524,
+      "probability": 1,
+      "accepted": true,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 46,
+      "fitness": 26.9612593607842,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.4726168884243807,
+        -0.9957125782780353
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 1.04673954723255,
+      "delta": 19.26954034218372,
+      "probability": 1.011640963353046e-8,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 47,
+      "fitness": 26.652153267461223,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.450532467039301,
+        -1.0206905459333215
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.9944025698709225,
+      "delta": 18.960434248860743,
+      "probability": 5.23886297171457e-9,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 48,
+      "fitness": 27.37326811005126,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.5521795069612554,
+        -0.9499796885810796
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.9446824413773763,
+      "delta": 19.68154909145078,
+      "probability": 8.951434209737611e-10,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 49,
+      "fitness": 34.73541926487083,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.278944015624001,
+        -0.6185770357772711
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.8974483193085074,
+      "delta": 27.043700246270348,
+      "probability": 8.184151630692325e-14,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 50,
+      "fitness": 21.759785336968413,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.101749232439323,
+        -0.6681121145188812
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.852575903343082,
+      "delta": 14.068066318367933,
+      "probability": 6.821090258814723e-8,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 51,
+      "fitness": 27.260052121162836,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.5738956991396833,
+        -1.0545514743123208
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.8099471081759279,
+      "delta": 19.568333102562356,
+      "probability": 3.216913887784106e-11,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 52,
+      "fitness": 42.17300360614517,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.6168491198029358,
+        -0.6144533918984239
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.7694497527671315,
+      "delta": 34.48128458754469,
+      "probability": 3.451431847473597e-20,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 53,
+      "fitness": 29.42560220131249,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        1.7098274380713692,
+        -0.6926674416102472
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.7309772651287748,
+      "delta": 21.73388318271201,
+      "probability": 1.2225846120025664e-13,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 54,
+      "fitness": 28.727316224151497,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.104355935920029,
+        -1.5212327762786302
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.694428401872336,
+      "delta": 21.035597205551017,
+      "probability": 6.988259608219692e-14,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 55,
+      "fitness": 39.51845437172258,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.5315038017276663,
+        -1.2767852432373914
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.6597069817787192,
+      "delta": 31.826735353122096,
+      "probability": 1.116883290078049e-21,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 56,
+      "fitness": 32.519807073434336,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        1.6983145356457672,
+        -0.35880244712345344
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.6267216326897832,
+      "delta": 24.828088054833856,
+      "probability": 6.238357937365017e-18,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 57,
+      "fitness": 44.413463974483435,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        1.5137002380378535,
+        -1.4848158821742985
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.595385551055294,
+      "delta": 36.721744955882954,
+      "probability": 1.636475804587831e-27,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 58,
+      "fitness": 41.11669099844784,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        1.4692145479191088,
+        -1.3789223292656245
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.5656162735025293,
+      "delta": 33.424971979847356,
+      "probability": 2.165015641866352e-26,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 59,
+      "fitness": 18.84911204425393,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        1.916030501788481,
+        -1.284772778330371
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.5373354598274028,
+      "delta": 11.157393025653448,
+      "probability": 9.597993100085009e-10,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 60,
+      "fitness": 46.45945537452062,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.5132631922420106,
+        -0.5219251429475847
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.5104686868360326,
+      "delta": 38.76773635592014,
+      "probability": 1.0407400772900734e-33,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 61,
+      "fitness": 43.68414917127811,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        1.4825181884970506,
+        -1.5685708054155114
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.484945252494231,
+      "delta": 35.99243015267763,
+      "probability": 5.845860852161995e-33,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 62,
+      "fitness": 35.546587125418824,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.779564757719635,
+        -0.5573906820546839
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.46069798986951943,
+      "delta": 27.854868106818344,
+      "probability": 5.515046433893896e-27,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 63,
+      "fitness": 18.733338362974134,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        1.9871670458279542,
+        -1.2995486909803007
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.43766309037604345,
+      "delta": 11.041619344373654,
+      "probability": 1.1050091446480877e-11,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 64,
+      "fitness": 17.81992970763769,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        1.9016173917148254,
+        -1.2621128185931596
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.41577993585724127,
+      "delta": 10.12821068903721,
+      "probability": 2.6350166592808628e-11,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 65,
+      "fitness": 26.65859245555037,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        1.8734948498476287,
+        -0.5250020912662152
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.3949909390643792,
+      "delta": 18.96687343694989,
+      "probability": 1.3990372850158894e-21,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 66,
+      "fitness": 37.31739814388451,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.3143841367959967,
+        -0.6113359377998862
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.37524139211116025,
+      "delta": 29.62567912528403,
+      "probability": 5.152535773236907e-35,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 67,
+      "fitness": 30.58390740393767,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.4226373801287253,
+        -1.1579275987856092
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.3564793225056022,
+      "delta": 22.89218838533719,
+      "probability": 1.2903916056855518e-28,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 68,
+      "fitness": 24.266702891337253,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.3802521851658813,
+        -0.9555484805069867
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.33865535638032207,
+      "delta": 16.574983872736773,
+      "probability": 5.547547781930836e-22,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 69,
+      "fitness": 21.91457988997678,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.0324165654648088,
+        -0.3833043691050265
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.321722588561306,
+      "delta": 14.222860871376298,
+      "probability": 6.316970451173513e-20,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 70,
+      "fitness": 30.96226225162899,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        1.7235295070148995,
+        -1.3256939405854795
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.30563645913324067,
+      "delta": 23.27054323302851,
+      "probability": 8.584095514945191e-34,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 71,
+      "fitness": 33.247416838007375,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.57073914611712,
+        -0.7989610553067181
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.29035463617657864,
+      "delta": 25.555697819406895,
+      "probability": 5.96169802432969e-39,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 72,
+      "fitness": 43.6514525349034,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        1.5704474526271217,
+        -1.5316486492566768
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.2758369043677497,
+      "delta": 35.95973351630292,
+      "probability": 2.4143355313968578e-57,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 73,
+      "fitness": 18.872590210566266,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.260649328567087,
+        -1.099323649965227
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.2620450591493622,
+      "delta": 11.180871191965785,
+      "probability": 2.9487281545658553e-19,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 74,
+      "fitness": 31.145414195612325,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        1.5827582874614738,
+        -0.7597984570357952
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.2489428061918941,
+      "delta": 23.453695177011845,
+      "probability": 1.2126423179026874e-41,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 75,
+      "fitness": 23.250530765450208,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        1.477855284307151,
+        -0.9657688839640471
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.2364956658822994,
+      "delta": 15.558811746849727,
+      "probability": 2.6804227628921427e-29,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 76,
+      "fitness": 36.383648785464075,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        1.6527139044180503,
+        -1.3540097950771455
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.2246708825881844,
+      "delta": 28.691929766863595,
+      "probability": 3.449659210413719e-56,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 77,
+      "fitness": 23.525320689653995,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.047827750798314,
+        -0.587119543347508
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.2134373384587752,
+      "delta": 15.833601671053515,
+      "probability": 6.0585266335360566e-33,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 78,
+      "fitness": 41.049338137626435,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        1.578527845097705,
+        -0.5533131902851167
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.20276547153583643,
+      "delta": 33.357619119025955,
+      "probability": 3.570892260103748e-72,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 79,
+      "fitness": 26.352127011491223,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.6007055059354744,
+        -0.9429666071943942
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.1926271979590446,
+      "delta": 18.660407992890743,
+      "probability": 8.482331670804073e-43,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 80,
+      "fitness": 36.9262236935207,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.280618175100534,
+        -0.45516789320856366
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.18299583806109235,
+      "delta": 29.234504674920217,
+      "probability": 4.161732946007761e-70,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 81,
+      "fitness": 39.13023141174263,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.2798033933434625,
+        -1.4764844386186453
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.17384604615803773,
+      "delta": 31.438512393142148,
+      "probability": 2.895361095230462e-79,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 82,
+      "fitness": 32.69358269481553,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.653996597491204,
+        -1.2256313336361202
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.16515374385013584,
+      "delta": 25.001863676215052,
+      "probability": 1.7953996262019024e-66,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 83,
+      "fitness": 45.9298417733404,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.5504950304329386,
+        -1.3968613197375093
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.15689605665762904,
+      "delta": 38.23812275473992,
+      "probability": 1.430098288350133e-106,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 84,
+      "fitness": 32.71882708973186,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.7091621387097975,
+        -0.2944172567967329
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.14905125382474757,
+      "delta": 25.02710807113138,
+      "probability": 1.1963818912490575e-73,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 85,
+      "fitness": 24.880813548231803,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.1026651624403887,
+        -1.3644768634624782
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.14159869113351017,
+      "delta": 17.189094529631323,
+      "probability": 1.9040388173625602e-53,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 86,
+      "fitness": 23.134844523718346,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.101154168583452,
+        -1.3331503191310916
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.13451875657683465,
+      "delta": 15.443125505117866,
+      "probability": 1.3860907528823954e-50,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 87,
+      "fitness": 17.405450087632467,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.807229127762838,
+        -0.891134757017717
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.12779281874799292,
+      "delta": 9.713731069031986,
+      "probability": 9.74093015088465e-34,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 88,
+      "fitness": 34.91576926992128,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.685985874272882,
+        -0.31015840264037287
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.12140317781059327,
+      "delta": 27.224050251320797,
+      "probability": 4.089338567735568e-98,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 89,
+      "fitness": 13.633675194658203,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.2122334278002374,
+        -0.9729824354685846
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.1153330189200636,
+      "delta": 5.941956176057722,
+      "probability": 4.218440252644141e-23,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 90,
+      "fitness": 23.8384041843032,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        1.8906080654636017,
+        -0.6121402770094577
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.10956636797406041,
+      "delta": 16.14668516570272,
+      "probability": 9.964605928025673e-65,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 91,
+      "fitness": 40.208990520576876,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        1.4455497645121058,
+        -0.592805921500549
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.10408804957535739,
+      "delta": 32.517271501976396,
+      "probability": 2.1169772201484483e-136,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 92,
+      "fitness": 12.419351885116582,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        2.183680751156061,
+        -0.9349295743089172
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.09888364709658952,
+      "delta": 4.727632866516101,
+      "probability": 1.7232797753240104e-21,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 93,
+      "fitness": 25.29438019024991,
+      "best": 7.69171901860048,
+      "bestPoint": [
+        2.1088499619904897,
+        -0.9933669652137909
+      ],
+      "point": [
+        1.9097504907567044,
+        -0.5319540415704254
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.09393946474176004,
+      "delta": 17.60266117164943,
+      "probability": 4.174320311797887e-82,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 94,
+      "fitness": 7.451522607683717,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.08924249150467203,
+      "delta": -0.24019641091676291,
+      "probability": 1,
+      "accepted": true,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 95,
+      "fitness": 29.223899806991653,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        2.1517807142157097,
+        -1.408619903661311
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.08478036692943842,
+      "delta": 21.772377199307936,
+      "probability": 2.9456876860598825e-112,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 96,
+      "fitness": 36.37144067934055,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        2.7752603224292387,
+        -0.4998717665951703
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0805413485829665,
+      "delta": 28.919918071656834,
+      "probability": 1.1434713543969675e-156,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 97,
+      "fitness": 42.71747473893403,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        1.4126245292648663,
+        -1.4887601007521156
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.07651428115381817,
+      "delta": 35.265952131250316,
+      "probability": 6.772079892126284e-201,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 98,
+      "fitness": 43.224598429283745,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        2.6010633952729396,
+        -0.6011643538065259
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.07268856709612725,
+      "delta": 35.77307582160003,
+      "probability": 1.8431910573128229e-214,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 99,
+      "fitness": 26.015493402839915,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        1.4467414007801553,
+        -0.8576216317061338
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0690541387413209,
+      "delta": 18.563970795156198,
+      "probability": 1.7688538395272627e-117,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 100,
+      "fitness": 19.243534159019994,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        2.7647956948541097,
+        -1.0837607249896977
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.06560143180425484,
+      "delta": 11.792011551336277,
+      "probability": 8.600944510450732e-79,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 101,
+      "fitness": 44.62585391135403,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        2.488442312302067,
+        -1.6529349748324607
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0623213602140421,
+      "delta": 37.174331303670314,
+      "probability": 8.827763657473232e-260,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 102,
+      "fitness": 32.15801434769291,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        1.7924664142820974,
+        -1.5670280031207953
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.05920529220334,
+      "delta": 24.706491740009195,
+      "probability": 5.861492598321123e-182,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 103,
+      "fitness": 22.5435184431759,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        1.7056713445857157,
+        -0.8115883492678407
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.05624502759317299,
+      "delta": 15.091995835492181,
+      "probability": 2.934649811538973e-117,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 104,
+      "fitness": 44.56860467362689,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        2.552362039340659,
+        -1.6502093881182376
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.05343277621351434,
+      "delta": 37.11708206594318,
+      "probability": 2.076371560264492e-302,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 105,
+      "fitness": 27.63780040694512,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        2.637545037018134,
+        -0.8638207413535568
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.05076113740283862,
+      "delta": 20.186277799261404,
+      "probability": 1.964669815448122e-173,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 106,
+      "fitness": 31.402827935190484,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        1.7209482583031048,
+        -0.36250048547983205
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.04822308053269669,
+      "delta": 23.951305327506766,
+      "probability": 1.976179228907886e-216,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 107,
+      "fitness": 34.99253619633943,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        1.7020525866001834,
+        -1.638566227005795
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.04581192650606185,
+      "delta": 27.541013588655712,
+      "probability": 8.179806661987269e-262,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 108,
+      "fitness": 32.88028280740858,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        2.7369669061899176,
+        -0.32369224571622945
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.04352133018075875,
+      "delta": 25.42876019972486,
+      "probability": 1.775205255823697e-254,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 109,
+      "fitness": 26.38553712931431,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        2.3170615510828783,
+        -1.176471326388419
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.04134526367172081,
+      "delta": 18.934014521630594,
+      "probability": 1.3042368589420416e-199,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 110,
+      "fitness": 26.001506949014665,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        2.0279625761136404,
+        -1.5598215729277585
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.03927800048813477,
+      "delta": 18.549984341330948,
+      "probability": 7.833253631218411e-206,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 111,
+      "fitness": 47.82372573302018,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        2.5736481055431057,
+        -1.5146771861054007
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.03731410046372803,
+      "delta": 40.37220312533647,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 112,
+      "fitness": 27.030287656061148,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        2.251663221446796,
+        -0.7288567275553945
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.035448395440541625,
+      "delta": 19.57876504837743,
+      "probability": 1.3539659001469794e-240,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 113,
+      "fitness": 22.482310068269822,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        1.925711826821788,
+        -1.6681026779394599
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.03367597566851454,
+      "delta": 15.030787460586104,
+      "probability": 1.4417946047357705e-194,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 114,
+      "fitness": 36.91878252976246,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        2.7655277126748103,
+        -0.5083206474129114
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.03199217688508881,
+      "delta": 29.467259922078743,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 115,
+      "fitness": 25.967377648775425,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        1.9815724549163123,
+        -1.5461038088705394
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.03039256804083437,
+      "delta": 18.515855041091708,
+      "probability": 2.6167483481910387e-265,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 116,
+      "fitness": 31.454180902261342,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        1.5992273580096654,
+        -1.2379795388132337
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.028872939638792647,
+      "delta": 24.002658294577625,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 117,
+      "fitness": 47.193807506738835,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        2.554611129574477,
+        -1.4355027271248404
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.027429292656853014,
+      "delta": 39.74228489905512,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 118,
+      "fitness": 38.98359898777632,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        1.6046326554194084,
+        -0.4066241644602273
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.02605782802401036,
+      "delta": 31.5320763800926,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 119,
+      "fitness": 41.85659922092253,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        1.5324015794601282,
+        -0.4500886323675517
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.024754936622809844,
+      "delta": 34.40507661323882,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 120,
+      "fitness": 22.478626223368206,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        1.8003968054708084,
+        -0.7206822762079541
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.02351718979166935,
+      "delta": 15.027103615684489,
+      "probability": 3.1106831387592574e-278,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 121,
+      "fitness": 16.474278848198438,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        2.040111338282003,
+        -0.7265441094338898
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.02234133030208588,
+      "delta": 9.02275624051472,
+      "probability": 4.037302764160402e-176,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 122,
+      "fitness": 23.604948205595903,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        2.121198424678295,
+        -1.3258174339123072
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.021224263786981584,
+      "delta": 16.153425597912186,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 123,
+      "fitness": 16.37095315860827,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        1.7361128794308742,
+        -1.0824978188890968
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.020163050597632504,
+      "delta": 8.919430550924552,
+      "probability": 7.643001279015192e-193,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 124,
+      "fitness": 38.59756950212143,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        1.5038305374141774,
+        -0.35667208170518316
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.019154898067750878,
+      "delta": 31.146046894437713,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 125,
+      "fitness": 43.98982358241804,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        2.421723444042726,
+        -1.3825608797185125
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.018197153164363333,
+      "delta": 36.53830097473433,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 126,
+      "fitness": 45.59423924551625,
+      "best": 7.451522607683717,
+      "bestPoint": [
+        2.103157408144324,
+        -1.0001131781656298
+      ],
+      "point": [
+        2.4390449359361073,
+        -1.408324790541083
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.017287295506145165,
+      "delta": 38.142716637832535,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 127,
+      "fitness": 7.281088823079767,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.016422930730837906,
+      "delta": -0.17043378460395076,
+      "probability": 1,
+      "accepted": true,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 128,
+      "fitness": 11.48882628661738,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        2.149905550694092,
+        -1.0901272488571707
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.01560178419429601,
+      "delta": 4.2077374635376135,
+      "probability": 7.456797238045975e-118,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 129,
+      "fitness": 22.144178342825082,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        2.1335034596547473,
+        -0.6879195507429543
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.01482169498458121,
+      "delta": 14.863089519745316,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 130,
+      "fitness": 24.735990772641017,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        1.2534457648452362,
+        -0.7107166593708101
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.014080610235352148,
+      "delta": 17.45490194956125,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 131,
+      "fitness": 46.42965037416671,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        2.4377975381724526,
+        -1.5806833922211083
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.013376579723584539,
+      "delta": 39.14856155108694,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 132,
+      "fitness": 21.55488903669794,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        1.7545409801695486,
+        -1.2065857502911244
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.01270775073740531,
+      "delta": 14.273800213618173,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 133,
+      "fitness": 22.99208068810175,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        2.3575854939687986,
+        -1.0252942014764999
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.012072363200535044,
+      "delta": 15.710991865021985,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 134,
+      "fitness": 29.218983055808238,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        1.8167549136839798,
+        -0.46606872140429945
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.011468745040508292,
+      "delta": 21.93789423272847,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 135,
+      "fitness": 30.51590403490555,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        2.2845187811460335,
+        -1.2743036169372501
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.010895307788482876,
+      "delta": 23.234815211825783,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 136,
+      "fitness": 38.38719104725032,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        2.2669415716826906,
+        -1.5273241793084893
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.010350542399058731,
+      "delta": 31.106102224170552,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 137,
+      "fitness": 31.27901372250753,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        1.6796316935960194,
+        -0.316864649606869
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.009833015279105795,
+      "delta": 23.997924899427762,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 138,
+      "fitness": 35.00106849650019,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        1.296473880559205,
+        -1.606017299955711
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.009341364515150505,
+      "delta": 27.719979673420422,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 139,
+      "fitness": 44.44819016842776,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        2.529607241349294,
+        -1.6578193649463357
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.00887429628939298,
+      "delta": 37.16710134534799,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 140,
+      "fitness": 25.377073663057832,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        2.3595533085335036,
+        -1.108334517227486
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.008430581474923331,
+      "delta": 18.095984839978065,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 141,
+      "fitness": 30.38595299466871,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        1.5782377003040156,
+        -0.7742901782784615
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.008009052401177164,
+      "delta": 23.104864171588943,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 142,
+      "fitness": 15.505181556202265,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        1.2377072038874022,
+        -1.1364070192258808
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.007608599781118305,
+      "delta": 8.224092733122498,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 143,
+      "fitness": 45.47560066547197,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        2.56661828954704,
+        -1.3926907763164493
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.007228169792062389,
+      "delta": 38.1945118423922,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 144,
+      "fitness": 15.409161976297561,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        1.7545119134057303,
+        -0.9030463811755184
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.006866761302459269,
+      "delta": 8.128073153217795,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 145,
+      "fitness": 22.760501574678692,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        1.2602102939784519,
+        -0.7505090414360169
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0065234232373363055,
+      "delta": 15.479412751598925,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 146,
+      "fitness": 13.589379213635643,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        1.9680444482062003,
+        -1.2184508566092702
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.00619725207546949,
+      "delta": 6.308290390555877,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 147,
+      "fitness": 35.21979158856702,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        2.286692180512472,
+        -0.3863395074661825
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.005887389471696015,
+      "delta": 27.938702765487253,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 148,
+      "fitness": 21.615727329934643,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        2.1376227568183084,
+        -0.30591349958442193
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.005593019998111215,
+      "delta": 14.334638506854876,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 149,
+      "fitness": 19.536522108044316,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        1.7857654127106062,
+        -0.7826422422472391
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.005313368998205653,
+      "delta": 12.25543328496455,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 150,
+      "fitness": 25.192993526969335,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        1.7812868333701035,
+        -1.2872028125263753
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0050477005482953705,
+      "delta": 17.91190470388957,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 151,
+      "fitness": 14.663728253287731,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        1.830444334615021,
+        -1.1630140920914713
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.004795315520880601,
+      "delta": 7.3826394302079645,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 152,
+      "fitness": 32.07762416886039,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        2.1987800281308583,
+        -1.6070107654482129
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.004555549744836571,
+      "delta": 24.796535345780622,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 153,
+      "fitness": 11.709899782667367,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        1.9535741544608018,
+        -1.1856367541756483
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.004327772257594742,
+      "delta": 4.428810959587601,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 154,
+      "fitness": 44.10503030792124,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        1.5119006786774836,
+        -1.4616285633575175
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.004111383644715005,
+      "delta": 36.82394148484147,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 155,
+      "fitness": 20.247714155365642,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        2.048294984064995,
+        -0.3422706140484665
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0039058144624792546,
+      "delta": 12.966625332285876,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 156,
+      "fitness": 11.24092569882651,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        2.1512771738972507,
+        -1.080686404258013
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0037105237393552917,
+      "delta": 3.9598368757467437,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 157,
+      "fitness": 12.406540382438305,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        2.191667259465902,
+        -0.9637745171133432
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.003524997552387527,
+      "delta": 5.125451559358538,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 158,
+      "fitness": 27.613239314145734,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        1.638024113122373,
+        -1.2017807829938831
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0033487476747681507,
+      "delta": 20.332150491065967,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 159,
+      "fitness": 32.24690389344523,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        2.4510028804000457,
+        -0.8146986266411844
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.003181310291029743,
+      "delta": 24.965815070365462,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 160,
+      "fitness": 19.90162562435301,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        1.2751228473428629,
+        -1.172642715442926
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0030222447764782557,
+      "delta": 12.620536801273243,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 161,
+      "fitness": 34.19553044213521,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        2.4450175851397207,
+        -1.2073240262735638
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0028711325376543427,
+      "delta": 26.91444161905544,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 162,
+      "fitness": 41.581984955602806,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        2.4133187386952333,
+        -1.3409138574078683
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0027275759107716255,
+      "delta": 34.300896132523036,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 163,
+      "fitness": 18.90032608739597,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        1.3536940539535127,
+        -1.0016385486163202
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.002591197115233044,
+      "delta": 11.619237264316205,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 164,
+      "fitness": 22.43984293800015,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        1.5753860308136782,
+        -0.9769709178525958
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0024616372594713914,
+      "delta": 15.158754114920384,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 165,
+      "fitness": 48.33206352308892,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        2.5455088844802223,
+        -1.503745025377721
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.002338555396497822,
+      "delta": 41.05097470000915,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 166,
+      "fitness": 23.4218877860636,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        1.5307154802884897,
+        -1.0318611511308704
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.002221627626672931,
+      "delta": 16.140798962983833,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 167,
+      "fitness": 31.008823302229345,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        1.2219584614783516,
+        -1.5796682658419017
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.002110546245339284,
+      "delta": 23.72773447914958,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 168,
+      "fitness": 28.82413858383356,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        2.416393853146582,
+        -0.8606834191642705
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.00200501893307232,
+      "delta": 21.543049760753792,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 169,
+      "fitness": 32.19529782098934,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        2.2502352881524703,
+        -0.37291631575673856
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0019047679864187038,
+      "delta": 24.914208997909572,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 170,
+      "fitness": 41.483823508831094,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        1.4721053860895328,
+        -1.6307607565354558
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0018095295870977684,
+      "delta": 34.202734685751324,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 171,
+      "fitness": 8.742298717232288,
+      "best": 7.281088823079767,
+      "bestPoint": [
+        1.883129810243844,
+        -0.9662361195124689
+      ],
+      "point": [
+        2.1165099470689883,
+        -0.9348252596613023
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0017190531077428798,
+      "delta": 1.4612098941525211,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 172,
+      "fitness": 5.1539135721976805,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0016331004523557357,
+      "delta": -2.127175250882086,
+      "probability": 1,
+      "accepted": true,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 173,
+      "fitness": 38.00633929740916,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        1.5097614493500433,
+        -0.34511214185506134
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0015514454297379488,
+      "delta": 32.85242572521148,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 174,
+      "fitness": 25.841631996580983,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        1.3756508928071698,
+        -0.8122171141020956
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0014738731582510513,
+      "delta": 20.687718424383302,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 175,
+      "fitness": 25.498459768343277,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        1.8393031770177177,
+        -1.3451247103791686
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0014001795003384986,
+      "delta": 20.344546196145597,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 176,
+      "fitness": 23.144868972595496,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        1.872172782458364,
+        -0.6441899765562269
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0013301705253215737,
+      "delta": 17.990955400397816,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 177,
+      "fitness": 46.01527017191998,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        2.522752434834837,
+        -0.45200263599865165
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.001263661999055495,
+      "delta": 40.8613565997223,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 178,
+      "fitness": 35.239999823423226,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        1.3105712704639874,
+        -0.4548833135794851
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.00120047889910272,
+      "delta": 30.086086251225545,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 179,
+      "fitness": 24.574860756726594,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        1.5905063193570814,
+        -0.8767817978560927
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.001140454954147584,
+      "delta": 19.420947184528913,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 180,
+      "fitness": 37.33748993066927,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        1.4312709091044953,
+        -1.3234930449444802
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0010834322064402048,
+      "delta": 32.18357635847159,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 181,
+      "fitness": 43.10189060180975,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        2.650130235478281,
+        -0.5174907628726216
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0010292605961181945,
+      "delta": 37.94797702961207,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 182,
+      "fitness": 46.61930878082663,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        2.613957680556922,
+        -1.5175365114863963
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0009777975663122847,
+      "delta": 41.46539520862895,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 183,
+      "fitness": 21.81029021384196,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        1.938850130541249,
+        -0.3774619466438892
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0009289076879966705,
+      "delta": 16.65637664164428,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 184,
+      "fitness": 39.42627081052673,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        1.662572824144735,
+        -1.4427312054485084
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0008824623035968369,
+      "delta": 34.27235723832905,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 185,
+      "fitness": 40.17510830728187,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        2.3965381502918888,
+        -0.35933879756368725
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.000838339188416995,
+      "delta": 35.02119473508419,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 186,
+      "fitness": 25.18966277806108,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        1.7047805756609877,
+        -1.2179033403098585
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0007964222289961453,
+      "delta": 20.0357492058634,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 187,
+      "fitness": 9.041696206296848,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        1.8773976284358642,
+        -1.0885687713325025
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.000756601117546338,
+      "delta": 3.8877826340991675,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 188,
+      "fitness": 23.875179943177635,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        2.328842932526021,
+        -1.1139881892409178
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.000718771061669021,
+      "delta": 18.721266370979954,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 189,
+      "fitness": 25.96947061950187,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        1.789062275812029,
+        -1.7136883305199446
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0006828325085855699,
+      "delta": 20.81555704730419,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 190,
+      "fitness": 28.93791821577466,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        1.7606799115240566,
+        -0.3600940474122766
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0006486908831562914,
+      "delta": 23.784004643576978,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 191,
+      "fitness": 37.22143075549467,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        1.3970286957267664,
+        -1.6760397236607971
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0006162563389984768,
+      "delta": 32.06751718329699,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 192,
+      "fitness": 29.600627293181613,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        1.6128187348414205,
+        -0.7688682740367951
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0005854435220485529,
+      "delta": 24.446713720983933,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 193,
+      "fitness": 46.2055559153073,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        2.61742625276558,
+        -1.5473357804398986
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0005561713459461252,
+      "delta": 41.05164234310962,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 194,
+      "fitness": 45.313854149692226,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        2.4457226187735785,
+        -0.4606560494098815
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0005283627786488189,
+      "delta": 40.159940577494545,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 195,
+      "fitness": 34.48697636133976,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        2.566052643842994,
+        -1.2064191258791837
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0005019446397163779,
+      "delta": 29.333062789142076,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 196,
+      "fitness": 42.331246678457646,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        1.5340049798879765,
+        -0.5178300511371347
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.000476847407730559,
+      "delta": 37.177333106259965,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 197,
+      "fitness": 18.80951585408191,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        1.9750982674583784,
+        -1.3000991191063078
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.000453005037344031,
+      "delta": 13.655602281884228,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 198,
+      "fitness": 43.20605240504802,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        2.506558215226977,
+        -0.3689148290827873
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.00043035478547682945,
+      "delta": 38.05213883285034,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 199,
+      "fitness": 23.15991458467558,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        1.5471604178473344,
+        -0.9625534082576634
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.00040883704620298794,
+      "delta": 18.0060010124779,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    },
+    {
+      "algorithm": "SA",
+      "seed": 44,
+      "evaluation": 200,
+      "fitness": 31.995247927571427,
+      "best": 5.1539135721976805,
+      "bestPoint": [
+        1.9863994811009607,
+        -1.0248226038925352
+      ],
+      "point": [
+        1.690427957782521,
+        -0.6659682304412129
+      ],
+      "realStructuralEvaluations": 0,
+      "feasibleFraction": 1,
+      "temperature": 0.0003883951938928385,
+      "delta": 26.841334355373746,
+      "probability": 0,
+      "accepted": false,
+      "acceptedWorse": false
+    }
+  ]
+}

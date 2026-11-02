@@ -1,0 +1,187 @@
+{
+  "maxSamples": 11,
+  "seed": 42,
+  "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1",
+  "experimentId": "rhino-verified-20261101",
+  "parameters": [
+    {
+      "id": "3c165de8-3ecd-47ab-9ae1-170a5e24ba4c",
+      "min": 0.5,
+      "max": 1.5,
+      "label": "Bottom radius / 下层半径",
+      "step": 0.1,
+      "unit": "model length",
+      "status": "static-confirmed/runtime-unverified",
+      "key": "bottomRadius",
+      "default": 0.5
+    },
+    {
+      "id": "d6ed47e3-d622-425d-82c8-3aefc982fb75",
+      "min": 0.5,
+      "max": 1.5,
+      "label": "Top radius / 上层半径",
+      "step": 0.1,
+      "unit": "model length",
+      "status": "static-confirmed/runtime-unverified",
+      "key": "topRadius",
+      "default": 0.5
+    },
+    {
+      "id": "2fbb51d4-b0f6-41a6-a43f-87e1b80eb4e8",
+      "min": 0,
+      "max": 10,
+      "label": "Top elevation / 上层标高",
+      "step": 0.1,
+      "unit": "model length",
+      "status": "static-confirmed/runtime-unverified",
+      "key": "topZ",
+      "default": 1.2
+    },
+    {
+      "id": "d6462d9e-d016-4567-bb05-dee269441377",
+      "min": 0,
+      "max": 10,
+      "label": "Bottom elevation / 下层标高",
+      "step": 0.1,
+      "unit": "model length",
+      "status": "static-confirmed/runtime-unverified",
+      "key": "bottomZ",
+      "default": 0
+    },
+    {
+      "id": "1b2ce418-de1a-4605-8f16-a7788d027ba3",
+      "min": 0,
+      "max": 360,
+      "label": "Twist / 旋转角",
+      "step": 0.001,
+      "unit": "deg",
+      "status": "static-confirmed/runtime-unverified",
+      "key": "twist_deg",
+      "default": 187.193
+    },
+    {
+      "id": "5b7f8d22-9ef1-4cec-a95b-22b9073ffd5a",
+      "min": 0,
+      "max": 1,
+      "label": "Rest-length reduction / 静长缩短率",
+      "step": 0.001,
+      "unit": "dimensionless",
+      "status": "static-confirmed/runtime-unverified",
+      "key": "pretension_parameter",
+      "default": 0.861
+    },
+    {
+      "id": "1cd6de1a-439a-4266-a4ff-0b6c938c0269",
+      "min": 0,
+      "max": 1,
+      "label": "Load per node / 单点荷载",
+      "step": 0.001,
+      "unit": "model force (uncalibrated)",
+      "status": "static-confirmed/runtime-unverified",
+      "key": "loadPerNode",
+      "default": 0.571
+    }
+  ],
+  "points": [
+    {
+      "bottomZ": 0,
+      "loadPerNode": 0.571,
+      "twist_deg": 187.193,
+      "topZ": 1.2,
+      "bottomRadius": 0.5,
+      "pretension_parameter": 0.861,
+      "topRadius": 0.5
+    },
+    {
+      "bottomZ": 0,
+      "loadPerNode": 0.571,
+      "twist_deg": 170,
+      "topZ": 1.2,
+      "bottomRadius": 0.5,
+      "pretension_parameter": 0.861,
+      "topRadius": 0.5
+    },
+    {
+      "bottomZ": 0,
+      "loadPerNode": 0.571,
+      "twist_deg": 173,
+      "topZ": 1.2,
+      "bottomRadius": 0.5,
+      "pretension_parameter": 0.861,
+      "topRadius": 0.5
+    },
+    {
+      "bottomZ": 0,
+      "loadPerNode": 0.571,
+      "twist_deg": 176,
+      "topZ": 1.2,
+      "bottomRadius": 0.5,
+      "pretension_parameter": 0.861,
+      "topRadius": 0.5
+    },
+    {
+      "bottomZ": 0,
+      "loadPerNode": 0.571,
+      "twist_deg": 179,
+      "topZ": 1.2,
+      "bottomRadius": 0.5,
+      "pretension_parameter": 0.861,
+      "topRadius": 0.5
+    },
+    {
+      "bottomZ": 0,
+      "loadPerNode": 0.571,
+      "twist_deg": 182,
+      "topZ": 1.2,
+      "bottomRadius": 0.5,
+      "pretension_parameter": 0.861,
+      "topRadius": 0.5
+    },
+    {
+      "bottomZ": 0,
+      "loadPerNode": 0.571,
+      "twist_deg": 185,
+      "topZ": 1.2,
+      "bottomRadius": 0.5,
+      "pretension_parameter": 0.861,
+      "topRadius": 0.5
+    },
+    {
+      "bottomZ": 0,
+      "loadPerNode": 0.571,
+      "twist_deg": 188,
+      "topZ": 1.2,
+      "bottomRadius": 0.5,
+      "pretension_parameter": 0.861,
+      "topRadius": 0.5
+    },
+    {
+      "bottomZ": 0,
+      "loadPerNode": 0.571,
+      "twist_deg": 191,
+      "topZ": 1.2,
+      "bottomRadius": 0.5,
+      "pretension_parameter": 0.861,
+      "topRadius": 0.5
+    },
+    {
+      "bottomZ": 0,
+      "loadPerNode": 0.571,
+      "twist_deg": 194,
+      "topZ": 1.2,
+      "bottomRadius": 0.5,
+      "pretension_parameter": 0.861,
+      "topRadius": 0.5
+    },
+    {
+      "bottomZ": 0,
+      "loadPerNode": 0.571,
+      "twist_deg": 197,
+      "topZ": 1.2,
+      "bottomRadius": 0.5,
+      "pretension_parameter": 0.861,
+      "topRadius": 0.5
+    }
+  ],
+  "maxSecondsPerSample": 30
+}

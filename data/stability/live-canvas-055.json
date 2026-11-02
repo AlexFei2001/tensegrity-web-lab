@@ -1,0 +1,18 @@
+{
+  "outputs": {
+    "LambdaMin": [
+      "0.008161"
+    ],
+    "Report": [
+      "小扰动试验 / Perturbation test\nDECAYED / 扰动衰减\nPOSITIVE / 当前平衡局部稳定\nlambda_min = 0.00816121617\nAmplitude = 0.1 mm (each sign)\nGain (- / +) = 0.00953693 / 0.00953693\nIterations = [300000, 300000, 300000]\nInitial residual = 1.64e-07\nFinal residuals (control / - / +) = 1.37e-13, 1.22e-13, 1.38e-13\nControl drift = 9.53693e-07 m\nElapsed = 0.81 s\n\nGain = maximum corner distance from ORIGINAL equilibrium / initial amplitude.\nChart: x=iteration fraction; y=log10(gain); horizontal line=gain 1.\nThe unperturbed control can also leave an unstable equilibrium due to numerical noise.\nTrace includes distance from control; coincident final states do not imply stability.\nFinite perturbation response is not a proof of global stability.\nThis check assumes this model's straight taut cables, axial springs and finite anchors.\nThe plotted evolution is solver iteration, not physical time."
+    ],
+    "GainMinus": [
+      "0.009537"
+    ],
+    "GainPlus": [
+      "0.009537"
+    ]
+  },
+  "P": 0.55,
+  "errors": []
+}

@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-01",
+  "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1",
+  "sampleCount": 11,
+  "units": {
+    "length": "m",
+    "force": "uncalibrated"
+  },
+  "versions": {
+    "Rhino": "8.23.25251.13001",
+    "Load": "Kangaroo2Component, Version=2.5.3.0, Culture=neutral, PublicKeyToken=794d913993c0f82d",
+    "Grasshopper": "Grasshopper, Version=8.23.25251.13001, Culture=neutral, PublicKeyToken=dda4f5ec2cd80803",
+    "Length(Line)": "Kangaroo2Component, Version=2.5.3.0, Culture=neutral, PublicKeyToken=794d913993c0f82d",
+    "ZombieSolver": "Kangaroo2Component, Version=2.5.3.0, Culture=neutral, PublicKeyToken=794d913993c0f82d"
+  },
+  "sampleIds": [
+    "rhino-verified-20261101-0",
+    "rhino-verified-20261101-1",
+    "rhino-verified-20261101-2",
+    "rhino-verified-20261101-3",
+    "rhino-verified-20261101-4",
+    "rhino-verified-20261101-5",
+    "rhino-verified-20261101-6",
+    "rhino-verified-20261101-7",
+    "rhino-verified-20261101-8",
+    "rhino-verified-20261101-9",
+    "rhino-verified-20261101-10"
+  ],
+  "checks": [
+    "Fresh private GH document per sample",
+    "Finite output and iteration cap",
+    "Three upper-node distances recomputed from coordinates",
+    "Exact parameter match and full topology export"
+  ],
+  "physicalValidation": false
+}

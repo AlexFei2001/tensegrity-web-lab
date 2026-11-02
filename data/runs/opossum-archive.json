@@ -1,0 +1,2802 @@
+[
+  {
+    "index": 0,
+    "proposedParameters": [
+      334.274943,
+      0.077597
+    ],
+    "objectives": [
+      -0.078,
+      0.04241457611696499
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 1,
+    "proposedParameters": [
+      71.06133,
+      0.96013
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 2,
+    "proposedParameters": [
+      180,
+      0.5
+    ],
+    "objectives": [
+      -0.5,
+      0.24645600598105177
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 3,
+    "proposedParameters": [
+      0.55821,
+      0.001185
+    ],
+    "objectives": [
+      -0.001,
+      0.0005276082072612726
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 4,
+    "proposedParameters": [
+      359.022134,
+      0.999696
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 5,
+    "proposedParameters": [
+      200.15922,
+      0.402569
+    ],
+    "objectives": [
+      -0.403,
+      0.18079466769175515
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 6,
+    "proposedParameters": [
+      172.506368,
+      0.537556
+    ],
+    "objectives": [
+      -0.538,
+      0.28066109092327063
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 7,
+    "proposedParameters": [
+      180.963963,
+      0.496663
+    ],
+    "objectives": [
+      -0.497,
+      0.24398629754860623
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 8,
+    "proposedParameters": [
+      179.656287,
+      0.501449
+    ],
+    "objectives": [
+      -0.501,
+      0.24729404318014403
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 9,
+    "proposedParameters": [
+      151.856051,
+      0.000558
+    ],
+    "objectives": [
+      -0.001,
+      0.0003556719277053761
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 10,
+    "proposedParameters": [
+      77.586578,
+      0.002196
+    ],
+    "objectives": [
+      -0.002,
+      0.0008765344001493586
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 11,
+    "proposedParameters": [
+      243.322229,
+      0.001013
+    ],
+    "objectives": [
+      -0.001,
+      0.00037110131824843784
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 12,
+    "proposedParameters": [
+      38.617808,
+      0.000299
+    ],
+    "objectives": [
+      0,
+      7.353899056046307e-7
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 13,
+    "proposedParameters": [
+      58.331985,
+      0.000137
+    ],
+    "objectives": [
+      0,
+      4.2760564038971664e-7
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 14,
+    "proposedParameters": [
+      0.101469,
+      0.137312
+    ],
+    "objectives": [
+      -0.137,
+      0.0843675624394655
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 15,
+    "proposedParameters": [
+      359.304512,
+      0.535642
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 16,
+    "proposedParameters": [
+      73.876054,
+      0.379299
+    ],
+    "objectives": [
+      -0.379,
+      0.2714544114955809
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 17,
+    "proposedParameters": [
+      151.604596,
+      0.386852
+    ],
+    "objectives": [
+      -0.387,
+      0.17723454649842285
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 18,
+    "proposedParameters": [
+      176.893399,
+      0.373705
+    ],
+    "objectives": [
+      -0.374,
+      0.16294290504033368
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 19,
+    "proposedParameters": [
+      208.160319,
+      0.280099
+    ],
+    "objectives": [
+      -0.28,
+      0.11489575009756611
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 20,
+    "proposedParameters": [
+      205.105773,
+      0.99567
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 21,
+    "proposedParameters": [
+      282.815237,
+      0.236403
+    ],
+    "objectives": [
+      -0.236,
+      0.12052449574106713
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 22,
+    "proposedParameters": [
+      240.162075,
+      0.196005
+    ],
+    "objectives": [
+      -0.196,
+      0.08117964391313191
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 23,
+    "proposedParameters": [
+      195.94713,
+      0.208962
+    ],
+    "objectives": [
+      -0.209,
+      0.08093195595197415
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 24,
+    "proposedParameters": [
+      214.439384,
+      0.228119
+    ],
+    "objectives": [
+      -0.228,
+      0.09109759010852295
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 25,
+    "proposedParameters": [
+      273.718152,
+      0.391659
+    ],
+    "objectives": [
+      -0.392,
+      0.23373329344312413
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 26,
+    "proposedParameters": [
+      243.110722,
+      0.877736
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 27,
+    "proposedParameters": [
+      79.206605,
+      0.666216
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 28,
+    "proposedParameters": [
+      239.4324,
+      0.523441
+    ],
+    "objectives": [
+      -0.523,
+      0.31031838307218107
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 29,
+    "proposedParameters": [
+      211.062157,
+      0.503056
+    ],
+    "objectives": [
+      -0.503,
+      0.2559026508403259
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 30,
+    "proposedParameters": [
+      195.980469,
+      0.507597
+    ],
+    "objectives": [
+      -0.508,
+      0.2536525471280402
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 31,
+    "proposedParameters": [
+      122.480708,
+      0.658437
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 32,
+    "proposedParameters": [
+      297.501507,
+      0.999987
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 33,
+    "proposedParameters": [
+      114.556921,
+      0.192147
+    ],
+    "objectives": [
+      -0.192,
+      0.0839964312295638
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 34,
+    "proposedParameters": [
+      156.337311,
+      0.130754
+    ],
+    "objectives": [
+      -0.131,
+      0.04945798090582612
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 35,
+    "proposedParameters": [
+      201.729488,
+      0.075855
+    ],
+    "objectives": [
+      -0.076,
+      0.027401447002813748
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 36,
+    "proposedParameters": [
+      183.891482,
+      0.134895
+    ],
+    "objectives": [
+      -0.135,
+      0.049956369353631555
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 37,
+    "proposedParameters": [
+      170.490058,
+      0.13027
+    ],
+    "objectives": [
+      -0.13,
+      0.04827158543424749
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 38,
+    "proposedParameters": [
+      180.420391,
+      0.132887
+    ],
+    "objectives": [
+      -0.133,
+      0.04919861396467529
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 39,
+    "proposedParameters": [
+      237.627054,
+      0.418535
+    ],
+    "objectives": [
+      -0.419,
+      0.209999266290171
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 40,
+    "proposedParameters": [
+      112.59125,
+      0.429192
+    ],
+    "objectives": [
+      -0.429,
+      0.24400699702284864
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 41,
+    "proposedParameters": [
+      217.275785,
+      0.440605
+    ],
+    "objectives": [
+      -0.441,
+      0.21163375907575174
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 42,
+    "proposedParameters": [
+      199.132265,
+      0.455539
+    ],
+    "objectives": [
+      -0.456,
+      0.2152118493925291
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 43,
+    "proposedParameters": [
+      228.050407,
+      0.433908
+    ],
+    "objectives": [
+      -0.434,
+      0.2134097472875231
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 44,
+    "proposedParameters": [
+      206.145885,
+      0.43244
+    ],
+    "objectives": [
+      -0.432,
+      0.20077628647667659
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 45,
+    "proposedParameters": [
+      191.822936,
+      0.325811
+    ],
+    "objectives": [
+      -0.326,
+      0.13646797885325085
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 46,
+    "proposedParameters": [
+      176.550157,
+      0.324096
+    ],
+    "objectives": [
+      -0.324,
+      0.13568973697515074
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 47,
+    "proposedParameters": [
+      185.215484,
+      0.315888
+    ],
+    "objectives": [
+      -0.316,
+      0.13117172678179087
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 48,
+    "proposedParameters": [
+      181.367562,
+      0.322787
+    ],
+    "objectives": [
+      -0.323,
+      0.13487272722443922
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 49,
+    "proposedParameters": [
+      142.043384,
+      0.24865
+    ],
+    "objectives": [
+      -0.249,
+      0.10427488517251687
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 50,
+    "proposedParameters": [
+      135.827372,
+      0.868042
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 51,
+    "proposedParameters": [
+      212.879513,
+      0.646306
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 52,
+    "proposedParameters": [
+      143.729066,
+      0.482876
+    ],
+    "objectives": [
+      -0.483,
+      0.25233240665738266
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 53,
+    "proposedParameters": [
+      157.424514,
+      0.513223
+    ],
+    "objectives": [
+      -0.513,
+      0.2666824833335306
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 54,
+    "proposedParameters": [
+      168.410319,
+      0.509016
+    ],
+    "objectives": [
+      -0.509,
+      0.2568999834074541
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 55,
+    "proposedParameters": [
+      181.682907,
+      0.521107
+    ],
+    "objectives": [
+      -0.521,
+      0.26343101910931505
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 56,
+    "proposedParameters": [
+      175.062698,
+      0.514859
+    ],
+    "objectives": [
+      -0.515,
+      0.2596170308930339
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 57,
+    "proposedParameters": [
+      358.380366,
+      0.000079
+    ],
+    "objectives": [
+      0,
+      1.314290702410739e-7
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 58,
+    "proposedParameters": [
+      185.787932,
+      0.000446
+    ],
+    "objectives": [
+      0,
+      9.729499459929217e-8
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 59,
+    "proposedParameters": [
+      215.231341,
+      0.02757
+    ],
+    "objectives": [
+      -0.028,
+      0.009988241244558903
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 60,
+    "proposedParameters": [
+      177.398485,
+      0.064403
+    ],
+    "objectives": [
+      -0.064,
+      0.0228546154870097
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 61,
+    "proposedParameters": [
+      181.259128,
+      0.016814
+    ],
+    "objectives": [
+      -0.017,
+      0.00592395524578343
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 62,
+    "proposedParameters": [
+      359.695432,
+      0.904802
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 63,
+    "proposedParameters": [
+      183.115378,
+      0.423153
+    ],
+    "objectives": [
+      -0.423,
+      0.19196281206197313
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 64,
+    "proposedParameters": [
+      192.447494,
+      0.412841
+    ],
+    "objectives": [
+      -0.413,
+      0.18590999675411704
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 65,
+    "proposedParameters": [
+      199.771689,
+      0.407186
+    ],
+    "objectives": [
+      -0.407,
+      0.18318610924691503
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 66,
+    "proposedParameters": [
+      206.683453,
+      0.395672
+    ],
+    "objectives": [
+      -0.396,
+      0.17797484807693417
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 67,
+    "proposedParameters": [
+      256.397223,
+      0.538383
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 68,
+    "proposedParameters": [
+      163.297718,
+      0.670639
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 69,
+    "proposedParameters": [
+      191.993868,
+      0.278072
+    ],
+    "objectives": [
+      -0.278,
+      0.11241792570753883
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 70,
+    "proposedParameters": [
+      200.106635,
+      0.283158
+    ],
+    "objectives": [
+      -0.283,
+      0.11538027920329137
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 71,
+    "proposedParameters": [
+      204.109714,
+      0.284272
+    ],
+    "objectives": [
+      -0.284,
+      0.11630936897886093
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 72,
+    "proposedParameters": [
+      202.047744,
+      0.280642
+    ],
+    "objectives": [
+      -0.281,
+      0.11459973331300752
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 73,
+    "proposedParameters": [
+      236.072714,
+      0.294777
+    ],
+    "objectives": [
+      -0.295,
+      0.1301462352467148
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 74,
+    "proposedParameters": [
+      220.409835,
+      0.289909
+    ],
+    "objectives": [
+      -0.29,
+      0.12238152075698723
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 75,
+    "proposedParameters": [
+      193.756468,
+      0.526797
+    ],
+    "objectives": [
+      -0.527,
+      0.26919117993239194
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 76,
+    "proposedParameters": [
+      188.51293,
+      0.511101
+    ],
+    "objectives": [
+      -0.511,
+      0.254971140473837
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 77,
+    "proposedParameters": [
+      183.075922,
+      0.502696
+    ],
+    "objectives": [
+      -0.503,
+      0.24853166879941607
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 78,
+    "proposedParameters": [
+      203.816527,
+      0.515421
+    ],
+    "objectives": [
+      -0.515,
+      0.26221189576922677
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 79,
+    "proposedParameters": [
+      181.962737,
+      0.494869
+    ],
+    "objectives": [
+      -0.495,
+      0.24233527124789497
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 80,
+    "proposedParameters": [
+      183.379653,
+      0.493166
+    ],
+    "objectives": [
+      -0.493,
+      0.24069240429092095
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 81,
+    "proposedParameters": [
+      43.187457,
+      0.393047
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 82,
+    "proposedParameters": [
+      221.676135,
+      0.176164
+    ],
+    "objectives": [
+      -0.176,
+      0.06886118305216696
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 83,
+    "proposedParameters": [
+      188.945278,
+      0.192236
+    ],
+    "objectives": [
+      -0.192,
+      0.0734165743221493
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 84,
+    "proposedParameters": [
+      201.45133,
+      0.188622
+    ],
+    "objectives": [
+      -0.189,
+      0.07256224076693733
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 85,
+    "proposedParameters": [
+      194.183284,
+      0.197489
+    ],
+    "objectives": [
+      -0.197,
+      0.07566477287563754
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 86,
+    "proposedParameters": [
+      193.616628,
+      0.194621
+    ],
+    "objectives": [
+      -0.195,
+      0.07478984377115579
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 87,
+    "proposedParameters": [
+      0.276355,
+      0.629361
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 88,
+    "proposedParameters": [
+      210.476431,
+      0.456648
+    ],
+    "objectives": [
+      -0.457,
+      0.21973976597011752
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 89,
+    "proposedParameters": [
+      199.06491,
+      0.459979
+    ],
+    "objectives": [
+      -0.46,
+      0.21800369343472448
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 90,
+    "proposedParameters": [
+      199.065747,
+      0.454552
+    ],
+    "objectives": [
+      -0.455,
+      0.21449941765808667
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 91,
+    "proposedParameters": [
+      140.725726,
+      0.290782
+    ],
+    "objectives": [
+      -0.291,
+      0.126241094700848
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 92,
+    "proposedParameters": [
+      178.760352,
+      0.455543
+    ],
+    "objectives": [
+      -0.456,
+      0.21416353253896978
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 93,
+    "proposedParameters": [
+      186.485827,
+      0.355779
+    ],
+    "objectives": [
+      -0.356,
+      0.15239050108464797
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 94,
+    "proposedParameters": [
+      188.017742,
+      0.3572
+    ],
+    "objectives": [
+      -0.357,
+      0.15295802912043946
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 95,
+    "proposedParameters": [
+      187.041645,
+      0.360068
+    ],
+    "objectives": [
+      -0.36,
+      0.1546033995523639
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 96,
+    "proposedParameters": [
+      187.844329,
+      0.35026
+    ],
+    "objectives": [
+      -0.35,
+      0.14912051479149008
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 97,
+    "proposedParameters": [
+      158.036824,
+      0.309741
+    ],
+    "objectives": [
+      -0.31,
+      0.1312843841711152
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 98,
+    "proposedParameters": [
+      104.819406,
+      0.261047
+    ],
+    "objectives": [
+      -0.261,
+      0.12613612341081276
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 99,
+    "proposedParameters": [
+      359.391481,
+      0.643128
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 100,
+    "proposedParameters": [
+      183.397006,
+      0.543749
+    ],
+    "objectives": [
+      -0.544,
+      0.2837074063524479
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 101,
+    "proposedParameters": [
+      178.919769,
+      0.533732
+    ],
+    "objectives": [
+      -0.534,
+      0.27517441403986526
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 102,
+    "proposedParameters": [
+      201.785451,
+      0.541223
+    ],
+    "objectives": [
+      -0.541,
+      0.2846503285555467
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 103,
+    "proposedParameters": [
+      186.004765,
+      0.530383
+    ],
+    "objectives": [
+      -0.53,
+      0.2709734909279598
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 104,
+    "proposedParameters": [
+      181.313753,
+      0.527277
+    ],
+    "objectives": [
+      -0.527,
+      0.2686252346851768
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 105,
+    "proposedParameters": [
+      115.71775,
+      0.00164
+    ],
+    "objectives": [
+      -0.002,
+      0.0007701339940089735
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 106,
+    "proposedParameters": [
+      226.184215,
+      0.000002
+    ],
+    "objectives": [
+      0,
+      0.0000012635154039312493
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 107,
+    "proposedParameters": [
+      200.051419,
+      0.024991
+    ],
+    "objectives": [
+      -0.025,
+      0.008776755492992276
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 108,
+    "proposedParameters": [
+      207.804812,
+      0.02131
+    ],
+    "objectives": [
+      -0.021,
+      0.0074028360737667795
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 109,
+    "proposedParameters": [
+      237.250154,
+      0.091559
+    ],
+    "objectives": [
+      -0.092,
+      0.035383856786079096
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 110,
+    "proposedParameters": [
+      359.28,
+      0.742889
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 111,
+    "proposedParameters": [
+      194.70342,
+      0.403954
+    ],
+    "objectives": [
+      -0.404,
+      0.18059574904312123
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 112,
+    "proposedParameters": [
+      205.122324,
+      0.397424
+    ],
+    "objectives": [
+      -0.397,
+      0.17818938321262015
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 113,
+    "proposedParameters": [
+      202.765942,
+      0.40134
+    ],
+    "objectives": [
+      -0.401,
+      0.18009261746374358
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 114,
+    "proposedParameters": [
+      205.619136,
+      0.396509
+    ],
+    "objectives": [
+      -0.397,
+      0.17831237836051597
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 115,
+    "proposedParameters": [
+      265.751215,
+      0.558506
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 116,
+    "proposedParameters": [
+      359.999999,
+      1
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 117,
+    "proposedParameters": [
+      195.589797,
+      0.270935
+    ],
+    "objectives": [
+      -0.271,
+      0.10923406444171
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 118,
+    "proposedParameters": [
+      195.199186,
+      0.265323
+    ],
+    "objectives": [
+      -0.265,
+      0.1063582489726708
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 119,
+    "proposedParameters": [
+      195.212996,
+      0.268365
+    ],
+    "objectives": [
+      -0.268,
+      0.10778229142681282
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 120,
+    "proposedParameters": [
+      195.251974,
+      0.268454
+    ],
+    "objectives": [
+      -0.268,
+      0.10778448435998977
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 121,
+    "proposedParameters": [
+      199.41483,
+      0.144777
+    ],
+    "objectives": [
+      -0.145,
+      0.05417816459381977
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 122,
+    "proposedParameters": [
+      245.451673,
+      0.115606
+    ],
+    "objectives": [
+      -0.116,
+      0.0462612509454429
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 123,
+    "proposedParameters": [
+      359.31242,
+      0.608798
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 124,
+    "proposedParameters": [
+      18.081105,
+      0.353474
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 125,
+    "proposedParameters": [
+      239.677906,
+      0.533064
+    ],
+    "objectives": [
+      -0.533,
+      0.323778646671807
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 126,
+    "proposedParameters": [
+      189.734969,
+      0.493199
+    ],
+    "objectives": [
+      -0.493,
+      0.24078081604495383
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 127,
+    "proposedParameters": [
+      185.840189,
+      0.489188
+    ],
+    "objectives": [
+      -0.489,
+      0.2375662627949111
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 128,
+    "proposedParameters": [
+      185.651301,
+      0.486409
+    ],
+    "objectives": [
+      -0.486,
+      0.23530078273509783
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 129,
+    "proposedParameters": [
+      1.849195,
+      0.539378
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 130,
+    "proposedParameters": [
+      215.486034,
+      0.168252
+    ],
+    "objectives": [
+      -0.168,
+      0.06473246810892867
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 131,
+    "proposedParameters": [
+      219.972121,
+      0.171683
+    ],
+    "objectives": [
+      -0.172,
+      0.06692371796275344
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 132,
+    "proposedParameters": [
+      222.080487,
+      0.171235
+    ],
+    "objectives": [
+      -0.171,
+      0.0667474836465539
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 133,
+    "proposedParameters": [
+      173.395959,
+      0.232223
+    ],
+    "objectives": [
+      -0.232,
+      0.09133855981519119
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 134,
+    "proposedParameters": [
+      216.673635,
+      0.180848
+    ],
+    "objectives": [
+      -0.181,
+      0.07042754579744982
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 135,
+    "proposedParameters": [
+      0.412452,
+      0.682064
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 136,
+    "proposedParameters": [
+      205.011349,
+      0.450154
+    ],
+    "objectives": [
+      -0.45,
+      0.21266722364098453
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 137,
+    "proposedParameters": [
+      204.972634,
+      0.445434
+    ],
+    "objectives": [
+      -0.445,
+      0.2091966241175559
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 138,
+    "proposedParameters": [
+      205.08433,
+      0.442562
+    ],
+    "objectives": [
+      -0.443,
+      0.20786137910844518
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 139,
+    "proposedParameters": [
+      211.429172,
+      0.607095
+    ],
+    "objectives": [
+      -0.607,
+      0.3724653289262257
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 140,
+    "proposedParameters": [
+      0,
+      1
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 141,
+    "proposedParameters": [
+      2.330333,
+      0.001853
+    ],
+    "objectives": [
+      -0.002,
+      0.0010536362781472107
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 142,
+    "proposedParameters": [
+      169.724085,
+      0.381951
+    ],
+    "objectives": [
+      -0.382,
+      0.16862673148113938
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 143,
+    "proposedParameters": [
+      183.762631,
+      0.380021
+    ],
+    "objectives": [
+      -0.38,
+      0.1659426350839505
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 144,
+    "proposedParameters": [
+      179.430236,
+      0.376164
+    ],
+    "objectives": [
+      -0.376,
+      0.16386337983426158
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 145,
+    "proposedParameters": [
+      236.122401,
+      0.208764
+    ],
+    "objectives": [
+      -0.209,
+      0.08637114490476228
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 146,
+    "proposedParameters": [
+      231.471611,
+      0.434715
+    ],
+    "objectives": [
+      -0.435,
+      0.21681022892658397
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 147,
+    "proposedParameters": [
+      218.092251,
+      0.996328
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 148,
+    "proposedParameters": [
+      252.301743,
+      0.694757
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 149,
+    "proposedParameters": [
+      190.148094,
+      0.59919
+    ],
+    "objectives": [
+      -0.599,
+      0.34329539337571907
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 150,
+    "proposedParameters": [
+      199.541547,
+      0.610619
+    ],
+    "objectives": [
+      -0.611,
+      0.3642353929524063
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 151,
+    "proposedParameters": [
+      189.033643,
+      0.602559
+    ],
+    "objectives": [
+      -0.603,
+      0.34824780189157317
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 152,
+    "proposedParameters": [
+      191.2635,
+      0.59861
+    ],
+    "objectives": [
+      -0.599,
+      0.34356762509992456
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 153,
+    "proposedParameters": [
+      84.212873,
+      0.20078
+    ],
+    "objectives": [
+      -0.201,
+      0.10120526112139755
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 154,
+    "proposedParameters": [
+      289.046414,
+      0.08409
+    ],
+    "objectives": [
+      -0.084,
+      0.038414577093981474
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 155,
+    "proposedParameters": [
+      184.769313,
+      0.118535
+    ],
+    "objectives": [
+      -0.119,
+      0.043649465439367735
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 156,
+    "proposedParameters": [
+      175.635684,
+      0.134786
+    ],
+    "objectives": [
+      -0.135,
+      0.050094693497432535
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 157,
+    "proposedParameters": [
+      149.140263,
+      0.094475
+    ],
+    "objectives": [
+      -0.094,
+      0.03517007060515187
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 158,
+    "proposedParameters": [
+      163.525063,
+      0.115623
+    ],
+    "objectives": [
+      -0.116,
+      0.04302620638943492
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 159,
+    "proposedParameters": [
+      198.609995,
+      0.465797
+    ],
+    "objectives": [
+      -0.466,
+      0.22217060948000555
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 160,
+    "proposedParameters": [
+      198.364498,
+      0.461381
+    ],
+    "objectives": [
+      -0.461,
+      0.21855197803497187
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 161,
+    "proposedParameters": [
+      198.827825,
+      0.464372
+    ],
+    "objectives": [
+      -0.464,
+      0.22079001108554827
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 162,
+    "proposedParameters": [
+      198.135555,
+      0.461641
+    ],
+    "objectives": [
+      -0.462,
+      0.21920970221818334
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 163,
+    "proposedParameters": [
+      257.501745,
+      0.533367
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 164,
+    "proposedParameters": [
+      271.797142,
+      0.388049
+    ],
+    "objectives": [
+      -0.388,
+      0.2264523744658731
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 165,
+    "proposedParameters": [
+      358.982509,
+      0.968475
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 166,
+    "proposedParameters": [
+      190.874903,
+      0.338886
+    ],
+    "objectives": [
+      -0.339,
+      0.14328429484632466
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 167,
+    "proposedParameters": [
+      188.721809,
+      0.339937
+    ],
+    "objectives": [
+      -0.34,
+      0.14374541648266612
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 168,
+    "proposedParameters": [
+      189.773082,
+      0.339596
+    ],
+    "objectives": [
+      -0.34,
+      0.14377608339838963
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 169,
+    "proposedParameters": [
+      198.971426,
+      0.215875
+    ],
+    "objectives": [
+      -0.216,
+      0.08416148786180513
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 170,
+    "proposedParameters": [
+      279.113188,
+      0.32064
+    ],
+    "objectives": [
+      -0.321,
+      0.1779068689395826
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 171,
+    "proposedParameters": [
+      94.508105,
+      0.705638
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 172,
+    "proposedParameters": [
+      176.039155,
+      0.578671
+    ],
+    "objectives": [
+      -0.579,
+      0.3209558118562185
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 173,
+    "proposedParameters": [
+      197.531132,
+      0.573667
+    ],
+    "objectives": [
+      -0.574,
+      0.3163059234777379
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 174,
+    "proposedParameters": [
+      187.193016,
+      0.570988
+    ],
+    "objectives": [
+      -0.571,
+      0.3104562345943198
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 175,
+    "proposedParameters": [
+      177.453133,
+      0.406369
+    ],
+    "objectives": [
+      -0.406,
+      0.18181856806342156
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 176,
+    "proposedParameters": [
+      185.618664,
+      0.435566
+    ],
+    "objectives": [
+      -0.436,
+      0.20027916076000657
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 177,
+    "proposedParameters": [
+      185.964593,
+      0.999362
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 178,
+    "proposedParameters": [
+      198.376839,
+      0.253018
+    ],
+    "objectives": [
+      -0.253,
+      0.1009210539518576
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 179,
+    "proposedParameters": [
+      200.207916,
+      0.251866
+    ],
+    "objectives": [
+      -0.252,
+      0.10059188955159154
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 180,
+    "proposedParameters": [
+      199.452945,
+      0.249778
+    ],
+    "objectives": [
+      -0.25,
+      0.09960288644544879
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 181,
+    "proposedParameters": [
+      166.363473,
+      0.282436
+    ],
+    "objectives": [
+      -0.282,
+      0.1155873353402517
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 182,
+    "proposedParameters": [
+      126.48943,
+      0.565517
+    ],
+    "objectives": [
+      -0.566,
+      0.39690342988252336
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 183,
+    "proposedParameters": [
+      0.573288,
+      0.495262
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 184,
+    "proposedParameters": [
+      233.846486,
+      0.536744
+    ],
+    "objectives": [
+      -0.537,
+      0.31632672542931733
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 185,
+    "proposedParameters": [
+      192.023273,
+      0.514643
+    ],
+    "objectives": [
+      -0.515,
+      0.2586475341934825
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 186,
+    "proposedParameters": [
+      188.133939,
+      0.515629
+    ],
+    "objectives": [
+      -0.516,
+      0.25907459938210403
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 187,
+    "proposedParameters": [
+      188.822358,
+      0.51124
+    ],
+    "objectives": [
+      -0.511,
+      0.254993103119293
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 188,
+    "proposedParameters": [
+      190.086818,
+      0.512782
+    ],
+    "objectives": [
+      -0.513,
+      0.2567446488307319
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 189,
+    "proposedParameters": [
+      197.475194,
+      0.405479
+    ],
+    "objectives": [
+      -0.405,
+      0.1815722825905229
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 190,
+    "proposedParameters": [
+      177.296381,
+      0.40869
+    ],
+    "objectives": [
+      -0.409,
+      0.18367874457601835
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 191,
+    "proposedParameters": [
+      197.465283,
+      0.407882
+    ],
+    "objectives": [
+      -0.408,
+      0.18341707828816714
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 192,
+    "proposedParameters": [
+      177.65274,
+      0.40478
+    ],
+    "objectives": [
+      -0.405,
+      0.18118469525607944
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 193,
+    "proposedParameters": [
+      141.684412,
+      0.253832
+    ],
+    "objectives": [
+      -0.254,
+      0.10685382731716249
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 194,
+    "proposedParameters": [
+      3.10496,
+      0.002408
+    ],
+    "objectives": [
+      -0.002,
+      0.0010536880905027256
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 195,
+    "proposedParameters": [
+      0.284149,
+      0.666805
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 196,
+    "proposedParameters": [
+      81.636787,
+      0.744017
+    ],
+    "objectives": [
+      1000000,
+      1000000
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 197,
+    "proposedParameters": [
+      205.879366,
+      0.593079
+    ],
+    "objectives": [
+      -0.593,
+      0.3450221961500077
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 198,
+    "proposedParameters": [
+      194.889885,
+      0.607597
+    ],
+    "objectives": [
+      -0.608,
+      0.35692741461770655
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  },
+  {
+    "index": 199,
+    "proposedParameters": [
+      174.816371,
+      0.6191
+    ],
+    "objectives": [
+      -0.619,
+      0.37387557742934124
+    ],
+    "status": "archived-unverified",
+    "source": "GHX OpossumData",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1"
+  }
+]

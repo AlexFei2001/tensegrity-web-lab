@@ -1,0 +1,179 @@
+{
+  "source": "tensegritydemo 3prism_2026.ghx",
+  "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1",
+  "runtimeVerified": true,
+  "parameters": [
+    {
+      "key": "bottomRadius",
+      "id": "3c165de8-3ecd-47ab-9ae1-170a5e24ba4c",
+      "label": "Bottom radius / 下层半径",
+      "unit": "m",
+      "min": 0.5,
+      "max": 1.5,
+      "default": 0.5,
+      "step": 0.1,
+      "status": "static-confirmed/runtime-sampled"
+    },
+    {
+      "key": "topRadius",
+      "id": "d6ed47e3-d622-425d-82c8-3aefc982fb75",
+      "label": "Top radius / 上层半径",
+      "unit": "m",
+      "min": 0.5,
+      "max": 1.5,
+      "default": 0.5,
+      "step": 0.1,
+      "status": "static-confirmed/runtime-sampled"
+    },
+    {
+      "key": "topZ",
+      "id": "2fbb51d4-b0f6-41a6-a43f-87e1b80eb4e8",
+      "label": "Top elevation / 上层标高",
+      "unit": "m",
+      "min": 0,
+      "max": 10,
+      "default": 1.2,
+      "step": 0.1,
+      "status": "static-confirmed/runtime-sampled"
+    },
+    {
+      "key": "bottomZ",
+      "id": "d6462d9e-d016-4567-bb05-dee269441377",
+      "label": "Bottom elevation / 下层标高",
+      "unit": "m",
+      "min": 0,
+      "max": 10,
+      "default": 0,
+      "step": 0.1,
+      "status": "static-confirmed/runtime-sampled"
+    },
+    {
+      "key": "twist_deg",
+      "id": "1b2ce418-de1a-4605-8f16-a7788d027ba3",
+      "label": "Twist / 旋转角",
+      "unit": "deg",
+      "min": 0,
+      "max": 360,
+      "default": 187.193,
+      "step": 0.001,
+      "status": "static-confirmed/runtime-sampled"
+    },
+    {
+      "key": "pretension_parameter",
+      "id": "5b7f8d22-9ef1-4cec-a95b-22b9073ffd5a",
+      "label": "Rest-length reduction / 静长缩短率",
+      "unit": "dimensionless",
+      "min": 0,
+      "max": 1,
+      "default": 0.861,
+      "step": 0.001,
+      "status": "static-confirmed/runtime-sampled"
+    },
+    {
+      "key": "loadPerNode",
+      "id": "1cd6de1a-439a-4266-a4ff-0b6c938c0269",
+      "label": "Load per node / 单点荷载",
+      "unit": "model force (uncalibrated)",
+      "min": 0,
+      "max": 1,
+      "default": 0.571,
+      "step": 0.001,
+      "status": "static-confirmed/runtime-sampled"
+    }
+  ],
+  "units": {
+    "length": "m",
+    "force": "uncalibrated"
+  },
+  "topology": {
+    "struts": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ]
+    ],
+    "cables": [
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        0
+      ]
+    ]
+  },
+  "geometryStatus": "GHX-derived topology; polygon seam/orientation requires Rhino comparison",
+  "runtimeVerification": {
+    "date": "2026-11-01",
+    "modelHash": "36efff6cb056dd5b29e249fdcf797260fcb1f8a9700515a920b03354440a19d1",
+    "sampleCount": 11,
+    "units": {
+      "length": "m",
+      "force": "uncalibrated"
+    },
+    "versions": {
+      "Rhino": "8.23.25251.13001",
+      "Load": "Kangaroo2Component, Version=2.5.3.0, Culture=neutral, PublicKeyToken=794d913993c0f82d",
+      "Grasshopper": "Grasshopper, Version=8.23.25251.13001, Culture=neutral, PublicKeyToken=dda4f5ec2cd80803",
+      "Length(Line)": "Kangaroo2Component, Version=2.5.3.0, Culture=neutral, PublicKeyToken=794d913993c0f82d",
+      "ZombieSolver": "Kangaroo2Component, Version=2.5.3.0, Culture=neutral, PublicKeyToken=794d913993c0f82d"
+    },
+    "sampleIds": [
+      "rhino-verified-20261101-0",
+      "rhino-verified-20261101-1",
+      "rhino-verified-20261101-2",
+      "rhino-verified-20261101-3",
+      "rhino-verified-20261101-4",
+      "rhino-verified-20261101-5",
+      "rhino-verified-20261101-6",
+      "rhino-verified-20261101-7",
+      "rhino-verified-20261101-8",
+      "rhino-verified-20261101-9",
+      "rhino-verified-20261101-10"
+    ],
+    "checks": [
+      "Fresh private GH document per sample",
+      "Finite output and iteration cap",
+      "Three upper-node distances recomputed from coordinates",
+      "Exact parameter match and full topology export"
+    ],
+    "physicalValidation": false
+  }
+}

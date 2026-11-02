@@ -1,0 +1,42 @@
+[
+  {
+    "P": 0.55,
+    "fullResidual": 6.214671201980871e-7,
+    "schurVsReducedMaxDifference": 0.000009592011338099837,
+    "lambdaMinReduced": 0.007631956438268468,
+    "lambdaMinFullSchur": 0.007631745538883148,
+    "minCableForce": 0.7152283595644329
+  },
+  {
+    "P": 0.56,
+    "fullResidual": 3.3463279404488734e-7,
+    "schurVsReducedMaxDifference": 0.00000217883574027411,
+    "lambdaMinReduced": 0.0019690758131051035,
+    "lambdaMinFullSchur": 0.0019690368179078772,
+    "minCableForce": 0.7247068195088623
+  },
+  {
+    "P": 0.565,
+    "fullResidual": 5.719542904492451e-7,
+    "schurVsReducedMaxDifference": 0.0000058188551683713285,
+    "lambdaMinReduced": -0.0008634137285929565,
+    "lambdaMinFullSchur": -0.0008633597850274666,
+    "minCableForce": 0.729607261355659
+  },
+  {
+    "P": 0.58,
+    "fullResidual": 7.130227519134643e-7,
+    "schurVsReducedMaxDifference": 0.0000062324120602141875,
+    "lambdaMinReduced": -0.00936739878127025,
+    "lambdaMinFullSchur": -0.009367324071963104,
+    "minCableForce": 0.7450467790520416
+  },
+  {
+    "P": 0.6,
+    "fullResidual": 6.669339062342346e-7,
+    "schurVsReducedMaxDifference": 0.000010860794645850547,
+    "lambdaMinReduced": -0.02073235158790734,
+    "lambdaMinFullSchur": -0.020732135056229048,
+    "minCableForce": 0.7456574818137096
+  }
+]
