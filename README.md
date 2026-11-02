@@ -57,4 +57,6 @@ This repository retains the original MIT license selected by AlexFei2001. Third-
 
 ## Verification
 
+Verified on 2026-11-02: **36/36 tests passed**, production web build passed, and both original GHX files were uploaded without line-ending conversion. This publication session did not run a new Rhino/Grasshopper solve or browser visual review.
+
 Existing regression checks cover 36 cases: trilingual DOM behavior, real sample geometry/schema, deterministic algorithms, stiffness/eigenpair checks and recorded native perturbation evidence. Running npm test rechecks saved evidence; it does not launch Rhino. A fresh clone's GH document must be solved and inspected in Rhino separately.
